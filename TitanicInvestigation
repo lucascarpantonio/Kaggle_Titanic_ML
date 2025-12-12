@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "93073148",
+   "id": "4f183ac6",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:54.013557Z",
-     "iopub.status.busy": "2025-11-30T22:21:54.013251Z",
-     "iopub.status.idle": "2025-11-30T22:21:56.950929Z",
-     "shell.execute_reply": "2025-11-30T22:21:56.949818Z"
+     "iopub.execute_input": "2025-12-12T18:39:09.588896Z",
+     "iopub.status.busy": "2025-12-12T18:39:09.588407Z",
+     "iopub.status.idle": "2025-12-12T18:39:12.702768Z",
+     "shell.execute_reply": "2025-12-12T18:39:12.701738Z"
     },
     "papermill": {
-     "duration": 2.949551,
-     "end_time": "2025-11-30T22:21:56.952595",
+     "duration": 3.127236,
+     "end_time": "2025-12-12T18:39:12.704322",
      "exception": false,
-     "start_time": "2025-11-30T22:21:54.003044",
+     "start_time": "2025-12-12T18:39:09.577086",
      "status": "completed"
     },
     "tags": []
@@ -57,13 +57,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7470d256",
+   "id": "28008f0c",
    "metadata": {
     "papermill": {
-     "duration": 0.006986,
-     "end_time": "2025-11-30T22:21:56.967114",
+     "duration": 0.008129,
+     "end_time": "2025-12-12T18:39:12.721205",
      "exception": false,
-     "start_time": "2025-11-30T22:21:56.960128",
+     "start_time": "2025-12-12T18:39:12.713076",
      "status": "completed"
     },
     "tags": []
@@ -84,19 +84,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "6d6154fb",
+   "id": "6ff0eee9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:56.983536Z",
-     "iopub.status.busy": "2025-11-30T22:21:56.982460Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.049069Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.048238Z"
+     "iopub.execute_input": "2025-12-12T18:39:12.738995Z",
+     "iopub.status.busy": "2025-12-12T18:39:12.738494Z",
+     "iopub.status.idle": "2025-12-12T18:39:12.809470Z",
+     "shell.execute_reply": "2025-12-12T18:39:12.808632Z"
     },
     "papermill": {
-     "duration": 0.076425,
-     "end_time": "2025-11-30T22:21:57.050487",
+     "duration": 0.081403,
+     "end_time": "2025-12-12T18:39:12.810691",
      "exception": false,
-     "start_time": "2025-11-30T22:21:56.974062",
+     "start_time": "2025-12-12T18:39:12.729288",
      "status": "completed"
     },
     "tags": []
@@ -261,13 +261,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6094bec7",
+   "id": "48fe3bae",
    "metadata": {
     "papermill": {
-     "duration": 0.007304,
-     "end_time": "2025-11-30T22:21:57.065429",
+     "duration": 0.009,
+     "end_time": "2025-12-12T18:39:12.828208",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.058125",
+     "start_time": "2025-12-12T18:39:12.819208",
      "status": "completed"
     },
     "tags": []
@@ -278,13 +278,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6fc8a59c",
+   "id": "5abe6bba",
    "metadata": {
     "papermill": {
-     "duration": 0.007169,
-     "end_time": "2025-11-30T22:21:57.080275",
+     "duration": 0.008346,
+     "end_time": "2025-12-12T18:39:12.844841",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.073106",
+     "start_time": "2025-12-12T18:39:12.836495",
      "status": "completed"
     },
     "tags": []
@@ -296,19 +296,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "32f85b4c",
+   "id": "e0d94d8f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.096345Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.096008Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.112794Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.111790Z"
+     "iopub.execute_input": "2025-12-12T18:39:12.863487Z",
+     "iopub.status.busy": "2025-12-12T18:39:12.863201Z",
+     "iopub.status.idle": "2025-12-12T18:39:12.878574Z",
+     "shell.execute_reply": "2025-12-12T18:39:12.877799Z"
     },
     "papermill": {
-     "duration": 0.026796,
-     "end_time": "2025-11-30T22:21:57.114238",
+     "duration": 0.026815,
+     "end_time": "2025-12-12T18:39:12.879915",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.087442",
+     "start_time": "2025-12-12T18:39:12.853100",
      "status": "completed"
     },
     "tags": []
@@ -406,19 +406,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "2cedf6b1",
+   "id": "7ca604f2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.131443Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.130524Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.165076Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.164086Z"
+     "iopub.execute_input": "2025-12-12T18:39:12.898729Z",
+     "iopub.status.busy": "2025-12-12T18:39:12.898388Z",
+     "iopub.status.idle": "2025-12-12T18:39:12.932423Z",
+     "shell.execute_reply": "2025-12-12T18:39:12.931600Z"
     },
     "papermill": {
-     "duration": 0.044757,
-     "end_time": "2025-11-30T22:21:57.166717",
+     "duration": 0.045425,
+     "end_time": "2025-12-12T18:39:12.933968",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.121960",
+     "start_time": "2025-12-12T18:39:12.888543",
      "status": "completed"
     },
     "tags": []
@@ -530,19 +530,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "9eb6646a",
+   "id": "ef5c52f8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.184215Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.183467Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.191187Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.190223Z"
+     "iopub.execute_input": "2025-12-12T18:39:12.952816Z",
+     "iopub.status.busy": "2025-12-12T18:39:12.952464Z",
+     "iopub.status.idle": "2025-12-12T18:39:12.959864Z",
+     "shell.execute_reply": "2025-12-12T18:39:12.958982Z"
     },
     "papermill": {
-     "duration": 0.01805,
-     "end_time": "2025-11-30T22:21:57.192566",
+     "duration": 0.018435,
+     "end_time": "2025-12-12T18:39:12.961303",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.174516",
+     "start_time": "2025-12-12T18:39:12.942868",
      "status": "completed"
     },
     "tags": []
@@ -569,13 +569,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ce409329",
+   "id": "a7a9239c",
    "metadata": {
     "papermill": {
-     "duration": 0.007582,
-     "end_time": "2025-11-30T22:21:57.208436",
+     "duration": 0.008685,
+     "end_time": "2025-12-12T18:39:12.979214",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.200854",
+     "start_time": "2025-12-12T18:39:12.970529",
      "status": "completed"
     },
     "tags": []
@@ -590,13 +590,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e888b539",
+   "id": "ab3e3f59",
    "metadata": {
     "papermill": {
-     "duration": 0.007678,
-     "end_time": "2025-11-30T22:21:57.223767",
+     "duration": 0.008647,
+     "end_time": "2025-12-12T18:39:12.996569",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.216089",
+     "start_time": "2025-12-12T18:39:12.987922",
      "status": "completed"
     },
     "tags": []
@@ -607,13 +607,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a37f011e",
+   "id": "87a4946b",
    "metadata": {
     "papermill": {
-     "duration": 0.007914,
-     "end_time": "2025-11-30T22:21:57.239371",
+     "duration": 0.009069,
+     "end_time": "2025-12-12T18:39:13.014292",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.231457",
+     "start_time": "2025-12-12T18:39:13.005223",
      "status": "completed"
     },
     "tags": []
@@ -629,13 +629,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b361ebb6",
+   "id": "50b0670e",
    "metadata": {
     "papermill": {
-     "duration": 0.007656,
-     "end_time": "2025-11-30T22:21:57.254504",
+     "duration": 0.00853,
+     "end_time": "2025-12-12T18:39:13.031515",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.246848",
+     "start_time": "2025-12-12T18:39:13.022985",
      "status": "completed"
     },
     "tags": []
@@ -652,19 +652,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "2a14324f",
+   "id": "b881b2d2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.271193Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.270919Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.276888Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.275889Z"
+     "iopub.execute_input": "2025-12-12T18:39:13.050148Z",
+     "iopub.status.busy": "2025-12-12T18:39:13.049840Z",
+     "iopub.status.idle": "2025-12-12T18:39:13.055313Z",
+     "shell.execute_reply": "2025-12-12T18:39:13.054492Z"
     },
     "papermill": {
-     "duration": 0.016235,
-     "end_time": "2025-11-30T22:21:57.278307",
+     "duration": 0.016547,
+     "end_time": "2025-12-12T18:39:13.056662",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.262072",
+     "start_time": "2025-12-12T18:39:13.040115",
      "status": "completed"
     },
     "tags": []
@@ -695,19 +695,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "dcb5d770",
+   "id": "cf048775",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.295936Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.295031Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.335291Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.334411Z"
+     "iopub.execute_input": "2025-12-12T18:39:13.075827Z",
+     "iopub.status.busy": "2025-12-12T18:39:13.075210Z",
+     "iopub.status.idle": "2025-12-12T18:39:13.111450Z",
+     "shell.execute_reply": "2025-12-12T18:39:13.110644Z"
     },
     "papermill": {
-     "duration": 0.050745,
-     "end_time": "2025-11-30T22:21:57.336981",
+     "duration": 0.04746,
+     "end_time": "2025-12-12T18:39:13.112946",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.286236",
+     "start_time": "2025-12-12T18:39:13.065486",
      "status": "completed"
     },
     "tags": []
@@ -914,13 +914,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2c7d58c9",
+   "id": "4c835e9a",
    "metadata": {
     "papermill": {
-     "duration": 0.008483,
-     "end_time": "2025-11-30T22:21:57.354798",
+     "duration": 0.008874,
+     "end_time": "2025-12-12T18:39:13.131143",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.346315",
+     "start_time": "2025-12-12T18:39:13.122269",
      "status": "completed"
     },
     "tags": []
@@ -937,19 +937,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "42bab50d",
+   "id": "c4782b86",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.373668Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.373392Z",
-     "iopub.status.idle": "2025-11-30T22:21:57.388926Z",
-     "shell.execute_reply": "2025-11-30T22:21:57.388035Z"
+     "iopub.execute_input": "2025-12-12T18:39:13.150031Z",
+     "iopub.status.busy": "2025-12-12T18:39:13.149689Z",
+     "iopub.status.idle": "2025-12-12T18:39:13.163222Z",
+     "shell.execute_reply": "2025-12-12T18:39:13.162483Z"
     },
     "papermill": {
-     "duration": 0.026917,
-     "end_time": "2025-11-30T22:21:57.390318",
+     "duration": 0.024487,
+     "end_time": "2025-12-12T18:39:13.164441",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.363401",
+     "start_time": "2025-12-12T18:39:13.139954",
      "status": "completed"
     },
     "tags": []
@@ -1111,13 +1111,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "916692ef",
+   "id": "83780d76",
    "metadata": {
     "papermill": {
-     "duration": 0.008067,
-     "end_time": "2025-11-30T22:21:57.406773",
+     "duration": 0.008834,
+     "end_time": "2025-12-12T18:39:13.182531",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.398706",
+     "start_time": "2025-12-12T18:39:13.173697",
      "status": "completed"
     },
     "tags": []
@@ -1129,19 +1129,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "77800c92",
+   "id": "ba41c78e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:21:57.424360Z",
-     "iopub.status.busy": "2025-11-30T22:21:57.424049Z",
-     "iopub.status.idle": "2025-11-30T22:22:00.892583Z",
-     "shell.execute_reply": "2025-11-30T22:22:00.891570Z"
+     "iopub.execute_input": "2025-12-12T18:39:13.202496Z",
+     "iopub.status.busy": "2025-12-12T18:39:13.201687Z",
+     "iopub.status.idle": "2025-12-12T18:39:16.769590Z",
+     "shell.execute_reply": "2025-12-12T18:39:16.768726Z"
     },
     "papermill": {
-     "duration": 3.479516,
-     "end_time": "2025-11-30T22:22:00.894244",
+     "duration": 3.579816,
+     "end_time": "2025-12-12T18:39:16.771138",
      "exception": false,
-     "start_time": "2025-11-30T22:21:57.414728",
+     "start_time": "2025-12-12T18:39:13.191322",
      "status": "completed"
     },
     "tags": []
@@ -1154,9 +1154,9 @@
        "<head><meta charset=\"utf-8\" /></head>\n",
        "<body>\n",
        "    <div>            <script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_SVG\"></script><script type=\"text/javascript\">if (window.MathJax && window.MathJax.Hub && window.MathJax.Hub.Config) {window.MathJax.Hub.Config({SVG: {font: \"STIX-Web\"}});}</script>                <script type=\"text/javascript\">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>\n",
-       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"cf9669d6-af10-4926-bba1-17a136d582ad\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"cf9669d6-af10-4926-bba1-17a136d582ad\")) {                    Plotly.newPlot(                        \"cf9669d6-af10-4926-bba1-17a136d582ad\",                        [{\"hovertemplate\":\"Gender=female\\u003cbr\\u003eFamily Size (SibSp + Parch + 1)=%{x}\\u003cbr\\u003eSurvival Rate=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"female\",\"line\":{\"color\":\"#636efa\",\"dash\":\"solid\"},\"marker\":{\"symbol\":\"circle\"},\"mode\":\"lines+markers\",\"name\":\"female\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[1,2,3,4,5,6,7,8,11],\"xaxis\":\"x\",\"y\":[0.7857142857142857,0.8160919540229885,0.7755102040816326,0.8421052631578947,0.25,0.375,0.375,0.0,0.0],\"yaxis\":\"y\",\"type\":\"scatter\"},{\"hovertemplate\":\"Gender=male\\u003cbr\\u003eFamily Size (SibSp + Parch + 1)=%{x}\\u003cbr\\u003eSurvival Rate=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"male\",\"line\":{\"color\":\"#EF553B\",\"dash\":\"solid\"},\"marker\":{\"symbol\":\"circle\"},\"mode\":\"lines+markers\",\"name\":\"male\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[1,2,3,4,5,6,7,8,11],\"xaxis\":\"x\",\"y\":[0.15571776155717762,0.24324324324324326,0.39622641509433965,0.5,0.0,0.0,0.25,0.0,0.0],\"yaxis\":\"y\",\"type\":\"scatter\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Family Size (SibSp + Parch + 1)\"}},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Survival Rate\"},\"tickformat\":\".0%\"},\"legend\":{\"title\":{\"text\":\"Gender\"},\"tracegroupgap\":0},\"title\":{\"text\":\"Survival Rate by Family Size and Gender\"},\"hovermode\":\"x unified\"},                        {\"responsive\": true}                    ).then(function(){\n",
+       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"5fcde5be-34c3-4f42-9995-58f62ef1d912\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"5fcde5be-34c3-4f42-9995-58f62ef1d912\")) {                    Plotly.newPlot(                        \"5fcde5be-34c3-4f42-9995-58f62ef1d912\",                        [{\"hovertemplate\":\"Gender=female\\u003cbr\\u003eFamily Size (SibSp + Parch + 1)=%{x}\\u003cbr\\u003eSurvival Rate=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"female\",\"line\":{\"color\":\"#636efa\",\"dash\":\"solid\"},\"marker\":{\"symbol\":\"circle\"},\"mode\":\"lines+markers\",\"name\":\"female\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[1,2,3,4,5,6,7,8,11],\"xaxis\":\"x\",\"y\":[0.7857142857142857,0.8160919540229885,0.7755102040816326,0.8421052631578947,0.25,0.375,0.375,0.0,0.0],\"yaxis\":\"y\",\"type\":\"scatter\"},{\"hovertemplate\":\"Gender=male\\u003cbr\\u003eFamily Size (SibSp + Parch + 1)=%{x}\\u003cbr\\u003eSurvival Rate=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"male\",\"line\":{\"color\":\"#EF553B\",\"dash\":\"solid\"},\"marker\":{\"symbol\":\"circle\"},\"mode\":\"lines+markers\",\"name\":\"male\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[1,2,3,4,5,6,7,8,11],\"xaxis\":\"x\",\"y\":[0.15571776155717762,0.24324324324324326,0.39622641509433965,0.5,0.0,0.0,0.25,0.0,0.0],\"yaxis\":\"y\",\"type\":\"scatter\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Family Size (SibSp + Parch + 1)\"}},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Survival Rate\"},\"tickformat\":\".0%\"},\"legend\":{\"title\":{\"text\":\"Gender\"},\"tracegroupgap\":0},\"title\":{\"text\":\"Survival Rate by Family Size and Gender\"},\"hovermode\":\"x unified\"},                        {\"responsive\": true}                    ).then(function(){\n",
        "                            \n",
-       "var gd = document.getElementById('cf9669d6-af10-4926-bba1-17a136d582ad');\n",
+       "var gd = document.getElementById('5fcde5be-34c3-4f42-9995-58f62ef1d912');\n",
        "var x = new MutationObserver(function (mutations, observer) {{\n",
        "        var display = window.getComputedStyle(gd).display;\n",
        "        if (!display || display === 'none') {{\n",
@@ -1218,13 +1218,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d72dab88",
+   "id": "391003b2",
    "metadata": {
     "papermill": {
-     "duration": 0.008251,
-     "end_time": "2025-11-30T22:22:00.911403",
+     "duration": 0.009268,
+     "end_time": "2025-12-12T18:39:16.790194",
      "exception": false,
-     "start_time": "2025-11-30T22:22:00.903152",
+     "start_time": "2025-12-12T18:39:16.780926",
      "status": "completed"
     },
     "tags": []
@@ -1242,13 +1242,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bdac7e2b",
+   "id": "68a0ed94",
    "metadata": {
     "papermill": {
-     "duration": 0.008469,
-     "end_time": "2025-11-30T22:22:00.928516",
+     "duration": 0.014864,
+     "end_time": "2025-12-12T18:39:16.817918",
      "exception": false,
-     "start_time": "2025-11-30T22:22:00.920047",
+     "start_time": "2025-12-12T18:39:16.803054",
      "status": "completed"
     },
     "tags": []
@@ -1259,13 +1259,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e0e612b9",
+   "id": "8f86fe0a",
    "metadata": {
     "papermill": {
-     "duration": 0.008239,
-     "end_time": "2025-11-30T22:22:00.945113",
+     "duration": 0.012528,
+     "end_time": "2025-12-12T18:39:16.845954",
      "exception": false,
-     "start_time": "2025-11-30T22:22:00.936874",
+     "start_time": "2025-12-12T18:39:16.833426",
      "status": "completed"
     },
     "tags": []
@@ -1281,19 +1281,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "683a4b82",
+   "id": "da460748",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:00.963987Z",
-     "iopub.status.busy": "2025-11-30T22:22:00.963022Z",
-     "iopub.status.idle": "2025-11-30T22:22:01.047733Z",
-     "shell.execute_reply": "2025-11-30T22:22:01.046793Z"
+     "iopub.execute_input": "2025-12-12T18:39:16.876101Z",
+     "iopub.status.busy": "2025-12-12T18:39:16.875708Z",
+     "iopub.status.idle": "2025-12-12T18:39:16.972032Z",
+     "shell.execute_reply": "2025-12-12T18:39:16.971132Z"
     },
     "papermill": {
-     "duration": 0.09616,
-     "end_time": "2025-11-30T22:22:01.049478",
+     "duration": 0.113091,
+     "end_time": "2025-12-12T18:39:16.973640",
      "exception": false,
-     "start_time": "2025-11-30T22:22:00.953318",
+     "start_time": "2025-12-12T18:39:16.860549",
      "status": "completed"
     },
     "tags": []
@@ -1306,9 +1306,9 @@
        "<head><meta charset=\"utf-8\" /></head>\n",
        "<body>\n",
        "    <div>            <script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_SVG\"></script><script type=\"text/javascript\">if (window.MathJax && window.MathJax.Hub && window.MathJax.Hub.Config) {window.MathJax.Hub.Config({SVG: {font: \"STIX-Web\"}});}</script>                <script type=\"text/javascript\">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>\n",
-       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"38675160-86e5-4e2f-bfc5-548e156a3cf4\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"38675160-86e5-4e2f-bfc5-548e156a3cf4\")) {                    Plotly.newPlot(                        \"38675160-86e5-4e2f-bfc5-548e156a3cf4\",                        [{\"alignmentgroup\":\"True\",\"bingroup\":\"x\",\"hovertemplate\":\"Age (years)=%{x}\\u003cbr\\u003ecount=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"\",\"marker\":{\"color\":\"#636efa\",\"opacity\":0.75,\"pattern\":{\"shape\":\"\"}},\"name\":\"\",\"nbinsx\":52,\"offsetgroup\":\"\",\"orientation\":\"v\",\"showlegend\":false,\"x\":[22.0,38.0,26.0,35.0,35.0,null,54.0,2.0,27.0,14.0,4.0,58.0,20.0,39.0,14.0,55.0,2.0,null,31.0,null,35.0,34.0,15.0,28.0,8.0,38.0,null,19.0,null,null,40.0,null,null,66.0,28.0,42.0,null,21.0,18.0,14.0,40.0,27.0,null,3.0,19.0,null,null,null,null,18.0,7.0,21.0,49.0,29.0,65.0,null,21.0,28.5,5.0,11.0,22.0,38.0,45.0,4.0,null,null,29.0,19.0,17.0,26.0,32.0,16.0,21.0,26.0,32.0,25.0,null,null,0.83,30.0,22.0,29.0,null,28.0,17.0,33.0,16.0,null,23.0,24.0,29.0,20.0,46.0,26.0,59.0,null,71.0,23.0,34.0,34.0,28.0,null,21.0,33.0,37.0,28.0,21.0,null,38.0,null,47.0,14.5,22.0,20.0,17.0,21.0,70.5,29.0,24.0,2.0,21.0,null,32.5,32.5,54.0,12.0,null,24.0,null,45.0,33.0,20.0,47.0,29.0,25.0,23.0,19.0,37.0,16.0,24.0,null,22.0,24.0,19.0,18.0,19.0,27.0,9.0,36.5,42.0,51.0,22.0,55.5,40.5,null,51.0,16.0,30.0,null,null,44.0,40.0,26.0,17.0,1.0,9.0,null,45.0,null,28.0,61.0,4.0,1.0,21.0,56.0,18.0,null,50.0,30.0,36.0,null,null,9.0,1.0,4.0,null,null,45.0,40.0,36.0,32.0,19.0,19.0,3.0,44.0,58.0,null,42.0,null,24.0,28.0,null,34.0,45.5,18.0,2.0,32.0,26.0,16.0,40.0,24.0,35.0,22.0,30.0,null,31.0,27.0,42.0,32.0,30.0,16.0,27.0,51.0,null,38.0,22.0,19.0,20.5,18.0,null,35.0,29.0,59.0,5.0,24.0,null,44.0,8.0,19.0,33.0,null,null,29.0,22.0,30.0,44.0,25.0,24.0,37.0,54.0,null,29.0,62.0,30.0,41.0,29.0,null,30.0,35.0,50.0,null,3.0,52.0,40.0,null,36.0,16.0,25.0,58.0,35.0,null,25.0,41.0,37.0,null,63.0,45.0,null,7.0,35.0,65.0,28.0,16.0,19.0,null,33.0,30.0,22.0,42.0,22.0,26.0,19.0,36.0,24.0,24.0,null,23.5,2.0,null,50.0,null,null,19.0,null,null,0.92,null,17.0,30.0,30.0,24.0,18.0,26.0,28.0,43.0,26.0,24.0,54.0,31.0,40.0,22.0,27.0,30.0,22.0,null,36.0,61.0,36.0,31.0,16.0,null,45.5,38.0,16.0,null,null,29.0,41.0,45.0,45.0,2.0,24.0,28.0,25.0,36.0,24.0,40.0,null,3.0,42.0,23.0,null,15.0,25.0,null,28.0,22.0,38.0,null,null,40.0,29.0,45.0,35.0,null,30.0,60.0,null,null,24.0,25.0,18.0,19.0,22.0,3.0,null,22.0,27.0,20.0,19.0,42.0,1.0,32.0,35.0,null,18.0,1.0,36.0,null,17.0,36.0,21.0,28.0,23.0,24.0,22.0,31.0,46.0,23.0,28.0,39.0,26.0,21.0,28.0,20.0,34.0,51.0,3.0,21.0,null,null,null,33.0,null,44.0,null,34.0,18.0,30.0,10.0,null,21.0,29.0,28.0,18.0,null,28.0,19.0,null,32.0,28.0,null,42.0,17.0,50.0,14.0,21.0,24.0,64.0,31.0,45.0,20.0,25.0,28.0,null,4.0,13.0,34.0,5.0,52.0,36.0,null,30.0,49.0,null,29.0,65.0,null,50.0,null,48.0,34.0,47.0,48.0,null,38.0,null,56.0,null,0.75,null,38.0,33.0,23.0,22.0,null,34.0,29.0,22.0,2.0,9.0,null,50.0,63.0,25.0,null,35.0,58.0,30.0,9.0,null,21.0,55.0,71.0,21.0,null,54.0,null,25.0,24.0,17.0,21.0,null,37.0,16.0,18.0,33.0,null,28.0,26.0,29.0,null,36.0,54.0,24.0,47.0,34.0,null,36.0,32.0,30.0,22.0,null,44.0,null,40.5,50.0,null,39.0,23.0,2.0,null,17.0,null,30.0,7.0,45.0,30.0,null,22.0,36.0,9.0,11.0,32.0,50.0,64.0,19.0,null,33.0,8.0,17.0,27.0,null,22.0,22.0,62.0,48.0,null,39.0,36.0,null,40.0,28.0,null,null,24.0,19.0,29.0,null,32.0,62.0,53.0,36.0,null,16.0,19.0,34.0,39.0,null,32.0,25.0,39.0,54.0,36.0,null,18.0,47.0,60.0,22.0,null,35.0,52.0,47.0,null,37.0,36.0,null,49.0,null,49.0,24.0,null,null,44.0,35.0,36.0,30.0,27.0,22.0,40.0,39.0,null,null,null,35.0,24.0,34.0,26.0,4.0,26.0,27.0,42.0,20.0,21.0,21.0,61.0,57.0,21.0,26.0,null,80.0,51.0,32.0,null,9.0,28.0,32.0,31.0,41.0,null,20.0,24.0,2.0,null,0.75,48.0,19.0,56.0,null,23.0,null,18.0,21.0,null,18.0,24.0,null,32.0,23.0,58.0,50.0,40.0,47.0,36.0,20.0,32.0,25.0,null,43.0,null,40.0,31.0,70.0,31.0,null,18.0,24.5,18.0,43.0,36.0,null,27.0,20.0,14.0,60.0,25.0,14.0,19.0,18.0,15.0,31.0,4.0,null,25.0,60.0,52.0,44.0,null,49.0,42.0,18.0,35.0,18.0,25.0,26.0,39.0,45.0,42.0,22.0,null,24.0,null,48.0,29.0,52.0,19.0,38.0,27.0,null,33.0,6.0,17.0,34.0,50.0,27.0,20.0,30.0,null,25.0,25.0,29.0,11.0,null,23.0,23.0,28.5,48.0,35.0,null,null,null,36.0,21.0,24.0,31.0,70.0,16.0,30.0,19.0,31.0,4.0,6.0,33.0,23.0,48.0,0.67,28.0,18.0,34.0,33.0,null,41.0,20.0,36.0,16.0,51.0,null,30.5,null,32.0,24.0,48.0,57.0,null,54.0,18.0,null,5.0,null,43.0,13.0,17.0,29.0,null,25.0,25.0,18.0,8.0,1.0,46.0,null,16.0,null,null,25.0,39.0,49.0,31.0,30.0,30.0,34.0,31.0,11.0,0.42,27.0,31.0,39.0,18.0,39.0,33.0,26.0,39.0,35.0,6.0,30.5,null,23.0,31.0,43.0,10.0,52.0,27.0,38.0,27.0,2.0,null,null,1.0,null,62.0,15.0,0.83,null,23.0,18.0,39.0,21.0,null,32.0,null,20.0,16.0,30.0,34.5,17.0,42.0,null,35.0,28.0,null,4.0,74.0,9.0,16.0,44.0,18.0,45.0,51.0,24.0,null,41.0,21.0,48.0,null,24.0,42.0,27.0,31.0,null,4.0,26.0,47.0,33.0,47.0,28.0,15.0,20.0,19.0,null,56.0,25.0,33.0,22.0,28.0,25.0,39.0,27.0,19.0,null,26.0,32.0],\"xaxis\":\"x\",\"yaxis\":\"y\",\"type\":\"histogram\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Age (years)\"}},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"count\"}},\"legend\":{\"tracegroupgap\":0},\"title\":{\"text\":\"Age Distribution\"},\"barmode\":\"relative\"},                        {\"responsive\": true}                    ).then(function(){\n",
+       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"8aa7bf30-d085-42c2-b9c5-71d8b96de4a3\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"8aa7bf30-d085-42c2-b9c5-71d8b96de4a3\")) {                    Plotly.newPlot(                        \"8aa7bf30-d085-42c2-b9c5-71d8b96de4a3\",                        [{\"alignmentgroup\":\"True\",\"bingroup\":\"x\",\"hovertemplate\":\"Age (years)=%{x}\\u003cbr\\u003ecount=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"\",\"marker\":{\"color\":\"#636efa\",\"opacity\":0.75,\"pattern\":{\"shape\":\"\"}},\"name\":\"\",\"nbinsx\":52,\"offsetgroup\":\"\",\"orientation\":\"v\",\"showlegend\":false,\"x\":[22.0,38.0,26.0,35.0,35.0,null,54.0,2.0,27.0,14.0,4.0,58.0,20.0,39.0,14.0,55.0,2.0,null,31.0,null,35.0,34.0,15.0,28.0,8.0,38.0,null,19.0,null,null,40.0,null,null,66.0,28.0,42.0,null,21.0,18.0,14.0,40.0,27.0,null,3.0,19.0,null,null,null,null,18.0,7.0,21.0,49.0,29.0,65.0,null,21.0,28.5,5.0,11.0,22.0,38.0,45.0,4.0,null,null,29.0,19.0,17.0,26.0,32.0,16.0,21.0,26.0,32.0,25.0,null,null,0.83,30.0,22.0,29.0,null,28.0,17.0,33.0,16.0,null,23.0,24.0,29.0,20.0,46.0,26.0,59.0,null,71.0,23.0,34.0,34.0,28.0,null,21.0,33.0,37.0,28.0,21.0,null,38.0,null,47.0,14.5,22.0,20.0,17.0,21.0,70.5,29.0,24.0,2.0,21.0,null,32.5,32.5,54.0,12.0,null,24.0,null,45.0,33.0,20.0,47.0,29.0,25.0,23.0,19.0,37.0,16.0,24.0,null,22.0,24.0,19.0,18.0,19.0,27.0,9.0,36.5,42.0,51.0,22.0,55.5,40.5,null,51.0,16.0,30.0,null,null,44.0,40.0,26.0,17.0,1.0,9.0,null,45.0,null,28.0,61.0,4.0,1.0,21.0,56.0,18.0,null,50.0,30.0,36.0,null,null,9.0,1.0,4.0,null,null,45.0,40.0,36.0,32.0,19.0,19.0,3.0,44.0,58.0,null,42.0,null,24.0,28.0,null,34.0,45.5,18.0,2.0,32.0,26.0,16.0,40.0,24.0,35.0,22.0,30.0,null,31.0,27.0,42.0,32.0,30.0,16.0,27.0,51.0,null,38.0,22.0,19.0,20.5,18.0,null,35.0,29.0,59.0,5.0,24.0,null,44.0,8.0,19.0,33.0,null,null,29.0,22.0,30.0,44.0,25.0,24.0,37.0,54.0,null,29.0,62.0,30.0,41.0,29.0,null,30.0,35.0,50.0,null,3.0,52.0,40.0,null,36.0,16.0,25.0,58.0,35.0,null,25.0,41.0,37.0,null,63.0,45.0,null,7.0,35.0,65.0,28.0,16.0,19.0,null,33.0,30.0,22.0,42.0,22.0,26.0,19.0,36.0,24.0,24.0,null,23.5,2.0,null,50.0,null,null,19.0,null,null,0.92,null,17.0,30.0,30.0,24.0,18.0,26.0,28.0,43.0,26.0,24.0,54.0,31.0,40.0,22.0,27.0,30.0,22.0,null,36.0,61.0,36.0,31.0,16.0,null,45.5,38.0,16.0,null,null,29.0,41.0,45.0,45.0,2.0,24.0,28.0,25.0,36.0,24.0,40.0,null,3.0,42.0,23.0,null,15.0,25.0,null,28.0,22.0,38.0,null,null,40.0,29.0,45.0,35.0,null,30.0,60.0,null,null,24.0,25.0,18.0,19.0,22.0,3.0,null,22.0,27.0,20.0,19.0,42.0,1.0,32.0,35.0,null,18.0,1.0,36.0,null,17.0,36.0,21.0,28.0,23.0,24.0,22.0,31.0,46.0,23.0,28.0,39.0,26.0,21.0,28.0,20.0,34.0,51.0,3.0,21.0,null,null,null,33.0,null,44.0,null,34.0,18.0,30.0,10.0,null,21.0,29.0,28.0,18.0,null,28.0,19.0,null,32.0,28.0,null,42.0,17.0,50.0,14.0,21.0,24.0,64.0,31.0,45.0,20.0,25.0,28.0,null,4.0,13.0,34.0,5.0,52.0,36.0,null,30.0,49.0,null,29.0,65.0,null,50.0,null,48.0,34.0,47.0,48.0,null,38.0,null,56.0,null,0.75,null,38.0,33.0,23.0,22.0,null,34.0,29.0,22.0,2.0,9.0,null,50.0,63.0,25.0,null,35.0,58.0,30.0,9.0,null,21.0,55.0,71.0,21.0,null,54.0,null,25.0,24.0,17.0,21.0,null,37.0,16.0,18.0,33.0,null,28.0,26.0,29.0,null,36.0,54.0,24.0,47.0,34.0,null,36.0,32.0,30.0,22.0,null,44.0,null,40.5,50.0,null,39.0,23.0,2.0,null,17.0,null,30.0,7.0,45.0,30.0,null,22.0,36.0,9.0,11.0,32.0,50.0,64.0,19.0,null,33.0,8.0,17.0,27.0,null,22.0,22.0,62.0,48.0,null,39.0,36.0,null,40.0,28.0,null,null,24.0,19.0,29.0,null,32.0,62.0,53.0,36.0,null,16.0,19.0,34.0,39.0,null,32.0,25.0,39.0,54.0,36.0,null,18.0,47.0,60.0,22.0,null,35.0,52.0,47.0,null,37.0,36.0,null,49.0,null,49.0,24.0,null,null,44.0,35.0,36.0,30.0,27.0,22.0,40.0,39.0,null,null,null,35.0,24.0,34.0,26.0,4.0,26.0,27.0,42.0,20.0,21.0,21.0,61.0,57.0,21.0,26.0,null,80.0,51.0,32.0,null,9.0,28.0,32.0,31.0,41.0,null,20.0,24.0,2.0,null,0.75,48.0,19.0,56.0,null,23.0,null,18.0,21.0,null,18.0,24.0,null,32.0,23.0,58.0,50.0,40.0,47.0,36.0,20.0,32.0,25.0,null,43.0,null,40.0,31.0,70.0,31.0,null,18.0,24.5,18.0,43.0,36.0,null,27.0,20.0,14.0,60.0,25.0,14.0,19.0,18.0,15.0,31.0,4.0,null,25.0,60.0,52.0,44.0,null,49.0,42.0,18.0,35.0,18.0,25.0,26.0,39.0,45.0,42.0,22.0,null,24.0,null,48.0,29.0,52.0,19.0,38.0,27.0,null,33.0,6.0,17.0,34.0,50.0,27.0,20.0,30.0,null,25.0,25.0,29.0,11.0,null,23.0,23.0,28.5,48.0,35.0,null,null,null,36.0,21.0,24.0,31.0,70.0,16.0,30.0,19.0,31.0,4.0,6.0,33.0,23.0,48.0,0.67,28.0,18.0,34.0,33.0,null,41.0,20.0,36.0,16.0,51.0,null,30.5,null,32.0,24.0,48.0,57.0,null,54.0,18.0,null,5.0,null,43.0,13.0,17.0,29.0,null,25.0,25.0,18.0,8.0,1.0,46.0,null,16.0,null,null,25.0,39.0,49.0,31.0,30.0,30.0,34.0,31.0,11.0,0.42,27.0,31.0,39.0,18.0,39.0,33.0,26.0,39.0,35.0,6.0,30.5,null,23.0,31.0,43.0,10.0,52.0,27.0,38.0,27.0,2.0,null,null,1.0,null,62.0,15.0,0.83,null,23.0,18.0,39.0,21.0,null,32.0,null,20.0,16.0,30.0,34.5,17.0,42.0,null,35.0,28.0,null,4.0,74.0,9.0,16.0,44.0,18.0,45.0,51.0,24.0,null,41.0,21.0,48.0,null,24.0,42.0,27.0,31.0,null,4.0,26.0,47.0,33.0,47.0,28.0,15.0,20.0,19.0,null,56.0,25.0,33.0,22.0,28.0,25.0,39.0,27.0,19.0,null,26.0,32.0],\"xaxis\":\"x\",\"yaxis\":\"y\",\"type\":\"histogram\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Age (years)\"}},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"count\"}},\"legend\":{\"tracegroupgap\":0},\"title\":{\"text\":\"Age Distribution\"},\"barmode\":\"relative\"},                        {\"responsive\": true}                    ).then(function(){\n",
        "                            \n",
-       "var gd = document.getElementById('38675160-86e5-4e2f-bfc5-548e156a3cf4');\n",
+       "var gd = document.getElementById('8aa7bf30-d085-42c2-b9c5-71d8b96de4a3');\n",
        "var x = new MutationObserver(function (mutations, observer) {{\n",
        "        var display = window.getComputedStyle(gd).display;\n",
        "        if (!display || display === 'none') {{\n",
@@ -1360,19 +1360,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "29cfa7a2",
+   "id": "2f84e703",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:01.068562Z",
-     "iopub.status.busy": "2025-11-30T22:22:01.068284Z",
-     "iopub.status.idle": "2025-11-30T22:22:01.154603Z",
-     "shell.execute_reply": "2025-11-30T22:22:01.153577Z"
+     "iopub.execute_input": "2025-12-12T18:39:16.994681Z",
+     "iopub.status.busy": "2025-12-12T18:39:16.994396Z",
+     "iopub.status.idle": "2025-12-12T18:39:17.079855Z",
+     "shell.execute_reply": "2025-12-12T18:39:17.079007Z"
     },
     "papermill": {
-     "duration": 0.097855,
-     "end_time": "2025-11-30T22:22:01.156173",
+     "duration": 0.097693,
+     "end_time": "2025-12-12T18:39:17.081290",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.058318",
+     "start_time": "2025-12-12T18:39:16.983597",
      "status": "completed"
     },
     "tags": []
@@ -1385,9 +1385,9 @@
        "<head><meta charset=\"utf-8\" /></head>\n",
        "<body>\n",
        "    <div>            <script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_SVG\"></script><script type=\"text/javascript\">if (window.MathJax && window.MathJax.Hub && window.MathJax.Hub.Config) {window.MathJax.Hub.Config({SVG: {font: \"STIX-Web\"}});}</script>                <script type=\"text/javascript\">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>\n",
-       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"0bb38484-1903-4a42-b11c-fdcf95e26443\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"0bb38484-1903-4a42-b11c-fdcf95e26443\")) {                    Plotly.newPlot(                        \"0bb38484-1903-4a42-b11c-fdcf95e26443\",                        [{\"alignmentgroup\":\"True\",\"boxpoints\":\"all\",\"hovertemplate\":\"Survived (0 = No, 1 = Yes)=%{x}\\u003cbr\\u003eAge=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"0\",\"marker\":{\"color\":\"#636efa\"},\"name\":\"0\",\"notched\":false,\"offsetgroup\":\"0\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],\"x0\":\" \",\"xaxis\":\"x\",\"y\":[22.0,35.0,null,54.0,2.0,20.0,39.0,14.0,2.0,31.0,35.0,8.0,null,19.0,null,40.0,66.0,28.0,42.0,21.0,18.0,40.0,27.0,null,null,null,null,18.0,7.0,21.0,65.0,28.5,11.0,22.0,45.0,4.0,null,19.0,26.0,32.0,16.0,21.0,26.0,25.0,null,null,22.0,28.0,16.0,null,24.0,29.0,20.0,46.0,26.0,59.0,null,71.0,34.0,28.0,null,21.0,33.0,37.0,28.0,38.0,47.0,14.5,22.0,20.0,17.0,21.0,70.5,29.0,24.0,2.0,21.0,null,32.5,54.0,null,45.0,33.0,20.0,47.0,25.0,23.0,37.0,16.0,24.0,null,19.0,18.0,19.0,9.0,36.5,42.0,51.0,55.5,40.5,null,51.0,30.0,null,null,44.0,26.0,17.0,1.0,45.0,null,28.0,61.0,4.0,21.0,56.0,18.0,null,50.0,30.0,36.0,null,null,9.0,null,40.0,36.0,19.0,null,42.0,24.0,28.0,null,34.0,45.5,2.0,32.0,24.0,22.0,30.0,null,42.0,30.0,27.0,51.0,null,22.0,20.5,18.0,null,29.0,59.0,24.0,null,44.0,19.0,33.0,null,29.0,22.0,30.0,44.0,25.0,54.0,null,29.0,62.0,30.0,41.0,null,52.0,40.0,null,36.0,16.0,null,37.0,45.0,null,7.0,65.0,28.0,16.0,null,33.0,22.0,36.0,24.0,24.0,null,23.5,2.0,19.0,null,30.0,26.0,28.0,43.0,54.0,22.0,27.0,null,61.0,45.5,38.0,16.0,null,29.0,45.0,28.0,25.0,36.0,42.0,23.0,null,15.0,25.0,null,28.0,38.0,40.0,29.0,45.0,35.0,null,30.0,18.0,19.0,22.0,3.0,27.0,20.0,19.0,32.0,null,18.0,1.0,null,28.0,22.0,31.0,46.0,23.0,26.0,21.0,28.0,20.0,34.0,51.0,21.0,null,null,null,null,null,30.0,10.0,null,21.0,29.0,28.0,18.0,null,null,17.0,50.0,21.0,64.0,31.0,20.0,25.0,36.0,null,30.0,null,65.0,null,34.0,47.0,48.0,null,38.0,null,56.0,null,null,38.0,22.0,null,34.0,29.0,22.0,9.0,null,50.0,null,58.0,30.0,null,21.0,55.0,71.0,21.0,null,null,25.0,24.0,17.0,21.0,null,37.0,18.0,28.0,null,24.0,47.0,null,32.0,22.0,null,null,40.5,null,39.0,23.0,null,17.0,30.0,45.0,null,9.0,11.0,50.0,64.0,33.0,27.0,null,62.0,null,null,40.0,28.0,null,null,24.0,19.0,29.0,null,16.0,19.0,null,54.0,36.0,null,47.0,22.0,null,35.0,47.0,null,37.0,36.0,49.0,null,null,null,44.0,36.0,30.0,39.0,null,null,35.0,34.0,26.0,26.0,27.0,21.0,21.0,61.0,57.0,26.0,null,51.0,null,9.0,32.0,31.0,41.0,null,20.0,2.0,19.0,null,null,21.0,18.0,24.0,null,32.0,23.0,58.0,40.0,47.0,36.0,32.0,25.0,null,43.0,31.0,70.0,null,18.0,24.5,43.0,null,20.0,14.0,60.0,25.0,14.0,19.0,18.0,25.0,60.0,52.0,44.0,49.0,42.0,18.0,25.0,26.0,39.0,null,29.0,52.0,19.0,null,33.0,17.0,34.0,50.0,20.0,25.0,25.0,11.0,null,23.0,23.0,28.5,48.0,null,null,36.0,24.0,70.0,16.0,19.0,31.0,33.0,23.0,28.0,18.0,34.0,null,41.0,16.0,null,30.5,null,32.0,24.0,48.0,57.0,null,18.0,null,null,29.0,null,25.0,25.0,8.0,46.0,null,16.0,null,null,25.0,39.0,30.0,30.0,34.0,31.0,39.0,18.0,39.0,26.0,39.0,35.0,6.0,30.5,null,23.0,31.0,43.0,10.0,38.0,2.0,null,null,null,23.0,18.0,21.0,null,20.0,16.0,34.5,17.0,42.0,null,35.0,28.0,4.0,74.0,9.0,44.0,null,41.0,21.0,null,24.0,31.0,null,26.0,33.0,47.0,20.0,19.0,null,33.0,22.0,28.0,25.0,39.0,27.0,null,32.0],\"y0\":\" \",\"yaxis\":\"y\",\"type\":\"box\"},{\"alignmentgroup\":\"True\",\"boxpoints\":\"all\",\"hovertemplate\":\"Survived (0 = No, 1 = Yes)=%{x}\\u003cbr\\u003eAge=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"1\",\"marker\":{\"color\":\"#EF553B\"},\"name\":\"1\",\"notched\":false,\"offsetgroup\":\"1\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],\"x0\":\" \",\"xaxis\":\"x\",\"y\":[38.0,26.0,35.0,27.0,14.0,4.0,58.0,55.0,null,null,34.0,15.0,28.0,38.0,null,null,null,null,14.0,3.0,19.0,null,49.0,29.0,null,21.0,5.0,38.0,null,29.0,17.0,32.0,0.83,30.0,29.0,null,17.0,33.0,23.0,23.0,34.0,21.0,null,null,32.5,12.0,24.0,null,29.0,19.0,22.0,24.0,27.0,22.0,16.0,40.0,9.0,null,1.0,1.0,4.0,null,45.0,32.0,19.0,3.0,44.0,58.0,null,18.0,26.0,16.0,40.0,35.0,31.0,27.0,32.0,16.0,38.0,19.0,35.0,5.0,8.0,null,24.0,37.0,29.0,null,30.0,35.0,50.0,3.0,25.0,58.0,35.0,25.0,41.0,null,63.0,35.0,19.0,30.0,42.0,22.0,26.0,19.0,null,50.0,null,null,null,0.92,null,17.0,30.0,24.0,18.0,26.0,24.0,31.0,40.0,30.0,22.0,36.0,36.0,31.0,16.0,null,null,41.0,45.0,2.0,24.0,24.0,40.0,null,3.0,22.0,null,null,60.0,null,null,24.0,25.0,null,22.0,42.0,1.0,35.0,36.0,17.0,36.0,21.0,23.0,24.0,28.0,39.0,3.0,33.0,44.0,34.0,18.0,28.0,19.0,32.0,28.0,null,42.0,14.0,24.0,45.0,28.0,null,4.0,13.0,34.0,5.0,52.0,49.0,29.0,null,50.0,48.0,0.75,33.0,23.0,2.0,63.0,25.0,35.0,9.0,54.0,16.0,33.0,null,26.0,29.0,36.0,54.0,34.0,36.0,30.0,44.0,50.0,2.0,null,7.0,30.0,22.0,36.0,32.0,19.0,null,8.0,17.0,22.0,22.0,48.0,39.0,36.0,32.0,62.0,53.0,36.0,null,34.0,39.0,32.0,25.0,39.0,18.0,60.0,52.0,null,49.0,24.0,35.0,27.0,22.0,40.0,null,24.0,4.0,42.0,20.0,21.0,80.0,32.0,28.0,24.0,null,0.75,48.0,56.0,23.0,18.0,null,50.0,20.0,null,40.0,31.0,18.0,36.0,27.0,15.0,31.0,4.0,null,null,18.0,35.0,45.0,42.0,22.0,null,24.0,48.0,38.0,27.0,6.0,27.0,30.0,null,29.0,35.0,null,21.0,31.0,30.0,4.0,6.0,48.0,0.67,33.0,20.0,36.0,51.0,54.0,5.0,43.0,13.0,17.0,18.0,1.0,49.0,31.0,31.0,11.0,0.42,27.0,33.0,52.0,27.0,27.0,1.0,null,62.0,15.0,0.83,39.0,32.0,null,30.0,null,16.0,18.0,45.0,51.0,24.0,48.0,42.0,27.0,4.0,47.0,28.0,15.0,56.0,25.0,19.0,26.0],\"y0\":\" \",\"yaxis\":\"y\",\"type\":\"box\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Survived (0 = No, 1 = Yes)\"},\"categoryorder\":\"array\",\"categoryarray\":[0,1]},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Age\"}},\"legend\":{\"title\":{\"text\":\"Survived (0 = No, 1 = Yes)\"},\"tracegroupgap\":0},\"title\":{\"text\":\"Survival vs Age — Boxplot\"},\"boxmode\":\"overlay\"},                        {\"responsive\": true}                    ).then(function(){\n",
+       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"ae1bd425-3ccb-4c22-936b-9b3e8e61ffe6\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"ae1bd425-3ccb-4c22-936b-9b3e8e61ffe6\")) {                    Plotly.newPlot(                        \"ae1bd425-3ccb-4c22-936b-9b3e8e61ffe6\",                        [{\"alignmentgroup\":\"True\",\"boxpoints\":\"all\",\"hovertemplate\":\"Survived (0 = No, 1 = Yes)=%{x}\\u003cbr\\u003eAge=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"0\",\"marker\":{\"color\":\"#636efa\"},\"name\":\"0\",\"notched\":false,\"offsetgroup\":\"0\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],\"x0\":\" \",\"xaxis\":\"x\",\"y\":[22.0,35.0,null,54.0,2.0,20.0,39.0,14.0,2.0,31.0,35.0,8.0,null,19.0,null,40.0,66.0,28.0,42.0,21.0,18.0,40.0,27.0,null,null,null,null,18.0,7.0,21.0,65.0,28.5,11.0,22.0,45.0,4.0,null,19.0,26.0,32.0,16.0,21.0,26.0,25.0,null,null,22.0,28.0,16.0,null,24.0,29.0,20.0,46.0,26.0,59.0,null,71.0,34.0,28.0,null,21.0,33.0,37.0,28.0,38.0,47.0,14.5,22.0,20.0,17.0,21.0,70.5,29.0,24.0,2.0,21.0,null,32.5,54.0,null,45.0,33.0,20.0,47.0,25.0,23.0,37.0,16.0,24.0,null,19.0,18.0,19.0,9.0,36.5,42.0,51.0,55.5,40.5,null,51.0,30.0,null,null,44.0,26.0,17.0,1.0,45.0,null,28.0,61.0,4.0,21.0,56.0,18.0,null,50.0,30.0,36.0,null,null,9.0,null,40.0,36.0,19.0,null,42.0,24.0,28.0,null,34.0,45.5,2.0,32.0,24.0,22.0,30.0,null,42.0,30.0,27.0,51.0,null,22.0,20.5,18.0,null,29.0,59.0,24.0,null,44.0,19.0,33.0,null,29.0,22.0,30.0,44.0,25.0,54.0,null,29.0,62.0,30.0,41.0,null,52.0,40.0,null,36.0,16.0,null,37.0,45.0,null,7.0,65.0,28.0,16.0,null,33.0,22.0,36.0,24.0,24.0,null,23.5,2.0,19.0,null,30.0,26.0,28.0,43.0,54.0,22.0,27.0,null,61.0,45.5,38.0,16.0,null,29.0,45.0,28.0,25.0,36.0,42.0,23.0,null,15.0,25.0,null,28.0,38.0,40.0,29.0,45.0,35.0,null,30.0,18.0,19.0,22.0,3.0,27.0,20.0,19.0,32.0,null,18.0,1.0,null,28.0,22.0,31.0,46.0,23.0,26.0,21.0,28.0,20.0,34.0,51.0,21.0,null,null,null,null,null,30.0,10.0,null,21.0,29.0,28.0,18.0,null,null,17.0,50.0,21.0,64.0,31.0,20.0,25.0,36.0,null,30.0,null,65.0,null,34.0,47.0,48.0,null,38.0,null,56.0,null,null,38.0,22.0,null,34.0,29.0,22.0,9.0,null,50.0,null,58.0,30.0,null,21.0,55.0,71.0,21.0,null,null,25.0,24.0,17.0,21.0,null,37.0,18.0,28.0,null,24.0,47.0,null,32.0,22.0,null,null,40.5,null,39.0,23.0,null,17.0,30.0,45.0,null,9.0,11.0,50.0,64.0,33.0,27.0,null,62.0,null,null,40.0,28.0,null,null,24.0,19.0,29.0,null,16.0,19.0,null,54.0,36.0,null,47.0,22.0,null,35.0,47.0,null,37.0,36.0,49.0,null,null,null,44.0,36.0,30.0,39.0,null,null,35.0,34.0,26.0,26.0,27.0,21.0,21.0,61.0,57.0,26.0,null,51.0,null,9.0,32.0,31.0,41.0,null,20.0,2.0,19.0,null,null,21.0,18.0,24.0,null,32.0,23.0,58.0,40.0,47.0,36.0,32.0,25.0,null,43.0,31.0,70.0,null,18.0,24.5,43.0,null,20.0,14.0,60.0,25.0,14.0,19.0,18.0,25.0,60.0,52.0,44.0,49.0,42.0,18.0,25.0,26.0,39.0,null,29.0,52.0,19.0,null,33.0,17.0,34.0,50.0,20.0,25.0,25.0,11.0,null,23.0,23.0,28.5,48.0,null,null,36.0,24.0,70.0,16.0,19.0,31.0,33.0,23.0,28.0,18.0,34.0,null,41.0,16.0,null,30.5,null,32.0,24.0,48.0,57.0,null,18.0,null,null,29.0,null,25.0,25.0,8.0,46.0,null,16.0,null,null,25.0,39.0,30.0,30.0,34.0,31.0,39.0,18.0,39.0,26.0,39.0,35.0,6.0,30.5,null,23.0,31.0,43.0,10.0,38.0,2.0,null,null,null,23.0,18.0,21.0,null,20.0,16.0,34.5,17.0,42.0,null,35.0,28.0,4.0,74.0,9.0,44.0,null,41.0,21.0,null,24.0,31.0,null,26.0,33.0,47.0,20.0,19.0,null,33.0,22.0,28.0,25.0,39.0,27.0,null,32.0],\"y0\":\" \",\"yaxis\":\"y\",\"type\":\"box\"},{\"alignmentgroup\":\"True\",\"boxpoints\":\"all\",\"hovertemplate\":\"Survived (0 = No, 1 = Yes)=%{x}\\u003cbr\\u003eAge=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"1\",\"marker\":{\"color\":\"#EF553B\"},\"name\":\"1\",\"notched\":false,\"offsetgroup\":\"1\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],\"x0\":\" \",\"xaxis\":\"x\",\"y\":[38.0,26.0,35.0,27.0,14.0,4.0,58.0,55.0,null,null,34.0,15.0,28.0,38.0,null,null,null,null,14.0,3.0,19.0,null,49.0,29.0,null,21.0,5.0,38.0,null,29.0,17.0,32.0,0.83,30.0,29.0,null,17.0,33.0,23.0,23.0,34.0,21.0,null,null,32.5,12.0,24.0,null,29.0,19.0,22.0,24.0,27.0,22.0,16.0,40.0,9.0,null,1.0,1.0,4.0,null,45.0,32.0,19.0,3.0,44.0,58.0,null,18.0,26.0,16.0,40.0,35.0,31.0,27.0,32.0,16.0,38.0,19.0,35.0,5.0,8.0,null,24.0,37.0,29.0,null,30.0,35.0,50.0,3.0,25.0,58.0,35.0,25.0,41.0,null,63.0,35.0,19.0,30.0,42.0,22.0,26.0,19.0,null,50.0,null,null,null,0.92,null,17.0,30.0,24.0,18.0,26.0,24.0,31.0,40.0,30.0,22.0,36.0,36.0,31.0,16.0,null,null,41.0,45.0,2.0,24.0,24.0,40.0,null,3.0,22.0,null,null,60.0,null,null,24.0,25.0,null,22.0,42.0,1.0,35.0,36.0,17.0,36.0,21.0,23.0,24.0,28.0,39.0,3.0,33.0,44.0,34.0,18.0,28.0,19.0,32.0,28.0,null,42.0,14.0,24.0,45.0,28.0,null,4.0,13.0,34.0,5.0,52.0,49.0,29.0,null,50.0,48.0,0.75,33.0,23.0,2.0,63.0,25.0,35.0,9.0,54.0,16.0,33.0,null,26.0,29.0,36.0,54.0,34.0,36.0,30.0,44.0,50.0,2.0,null,7.0,30.0,22.0,36.0,32.0,19.0,null,8.0,17.0,22.0,22.0,48.0,39.0,36.0,32.0,62.0,53.0,36.0,null,34.0,39.0,32.0,25.0,39.0,18.0,60.0,52.0,null,49.0,24.0,35.0,27.0,22.0,40.0,null,24.0,4.0,42.0,20.0,21.0,80.0,32.0,28.0,24.0,null,0.75,48.0,56.0,23.0,18.0,null,50.0,20.0,null,40.0,31.0,18.0,36.0,27.0,15.0,31.0,4.0,null,null,18.0,35.0,45.0,42.0,22.0,null,24.0,48.0,38.0,27.0,6.0,27.0,30.0,null,29.0,35.0,null,21.0,31.0,30.0,4.0,6.0,48.0,0.67,33.0,20.0,36.0,51.0,54.0,5.0,43.0,13.0,17.0,18.0,1.0,49.0,31.0,31.0,11.0,0.42,27.0,33.0,52.0,27.0,27.0,1.0,null,62.0,15.0,0.83,39.0,32.0,null,30.0,null,16.0,18.0,45.0,51.0,24.0,48.0,42.0,27.0,4.0,47.0,28.0,15.0,56.0,25.0,19.0,26.0],\"y0\":\" \",\"yaxis\":\"y\",\"type\":\"box\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Survived (0 = No, 1 = Yes)\"},\"categoryorder\":\"array\",\"categoryarray\":[0,1]},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Age\"}},\"legend\":{\"title\":{\"text\":\"Survived (0 = No, 1 = Yes)\"},\"tracegroupgap\":0},\"title\":{\"text\":\"Survival vs Age — Boxplot\"},\"boxmode\":\"overlay\"},                        {\"responsive\": true}                    ).then(function(){\n",
        "                            \n",
-       "var gd = document.getElementById('0bb38484-1903-4a42-b11c-fdcf95e26443');\n",
+       "var gd = document.getElementById('ae1bd425-3ccb-4c22-936b-9b3e8e61ffe6');\n",
        "var x = new MutationObserver(function (mutations, observer) {{\n",
        "        var display = window.getComputedStyle(gd).display;\n",
        "        if (!display || display === 'none') {{\n",
@@ -1437,13 +1437,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "01ac124c",
+   "id": "b2b1fac5",
    "metadata": {
     "papermill": {
-     "duration": 0.009294,
-     "end_time": "2025-11-30T22:22:01.175346",
+     "duration": 0.009976,
+     "end_time": "2025-12-12T18:39:17.101609",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.166052",
+     "start_time": "2025-12-12T18:39:17.091633",
      "status": "completed"
     },
     "tags": []
@@ -1460,13 +1460,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "294e40e4",
+   "id": "b6d926d1",
    "metadata": {
     "papermill": {
-     "duration": 0.009111,
-     "end_time": "2025-11-30T22:22:01.193554",
+     "duration": 0.010117,
+     "end_time": "2025-12-12T18:39:17.121727",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.184443",
+     "start_time": "2025-12-12T18:39:17.111610",
      "status": "completed"
     },
     "tags": []
@@ -1478,19 +1478,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "f9855c20",
+   "id": "38235d90",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:01.213873Z",
-     "iopub.status.busy": "2025-11-30T22:22:01.213521Z",
-     "iopub.status.idle": "2025-11-30T22:22:01.234546Z",
-     "shell.execute_reply": "2025-11-30T22:22:01.233510Z"
+     "iopub.execute_input": "2025-12-12T18:39:17.143132Z",
+     "iopub.status.busy": "2025-12-12T18:39:17.142835Z",
+     "iopub.status.idle": "2025-12-12T18:39:17.161608Z",
+     "shell.execute_reply": "2025-12-12T18:39:17.160831Z"
     },
     "papermill": {
-     "duration": 0.033266,
-     "end_time": "2025-11-30T22:22:01.236305",
+     "duration": 0.031565,
+     "end_time": "2025-12-12T18:39:17.163175",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.203039",
+     "start_time": "2025-12-12T18:39:17.131610",
      "status": "completed"
     },
     "tags": []
@@ -1602,13 +1602,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ede7af71",
+   "id": "788c4e48",
    "metadata": {
     "papermill": {
-     "duration": 0.009635,
-     "end_time": "2025-11-30T22:22:01.255706",
+     "duration": 0.010266,
+     "end_time": "2025-12-12T18:39:17.183858",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.246071",
+     "start_time": "2025-12-12T18:39:17.173592",
      "status": "completed"
     },
     "tags": []
@@ -1619,13 +1619,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9b99e0dc",
+   "id": "4c4e66cb",
    "metadata": {
     "papermill": {
-     "duration": 0.009675,
-     "end_time": "2025-11-30T22:22:01.274875",
+     "duration": 0.010053,
+     "end_time": "2025-12-12T18:39:17.203985",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.265200",
+     "start_time": "2025-12-12T18:39:17.193932",
      "status": "completed"
     },
     "tags": []
@@ -1647,19 +1647,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "bd267d69",
+   "id": "056816e8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:01.295044Z",
-     "iopub.status.busy": "2025-11-30T22:22:01.294553Z",
-     "iopub.status.idle": "2025-11-30T22:22:01.321610Z",
-     "shell.execute_reply": "2025-11-30T22:22:01.320803Z"
+     "iopub.execute_input": "2025-12-12T18:39:17.225812Z",
+     "iopub.status.busy": "2025-12-12T18:39:17.225466Z",
+     "iopub.status.idle": "2025-12-12T18:39:17.252361Z",
+     "shell.execute_reply": "2025-12-12T18:39:17.251497Z"
     },
     "papermill": {
-     "duration": 0.039336,
-     "end_time": "2025-11-30T22:22:01.323483",
+     "duration": 0.040014,
+     "end_time": "2025-12-12T18:39:17.254069",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.284147",
+     "start_time": "2025-12-12T18:39:17.214055",
      "status": "completed"
     },
     "tags": []
@@ -1842,19 +1842,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "2f5ab67e",
+   "id": "940a11e8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:01.344561Z",
-     "iopub.status.busy": "2025-11-30T22:22:01.344266Z",
-     "iopub.status.idle": "2025-11-30T22:22:01.357918Z",
-     "shell.execute_reply": "2025-11-30T22:22:01.356938Z"
+     "iopub.execute_input": "2025-12-12T18:39:17.277121Z",
+     "iopub.status.busy": "2025-12-12T18:39:17.276803Z",
+     "iopub.status.idle": "2025-12-12T18:39:17.289468Z",
+     "shell.execute_reply": "2025-12-12T18:39:17.288704Z"
     },
     "papermill": {
-     "duration": 0.025888,
-     "end_time": "2025-11-30T22:22:01.359304",
+     "duration": 0.025756,
+     "end_time": "2025-12-12T18:39:17.290718",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.333416",
+     "start_time": "2025-12-12T18:39:17.264962",
      "status": "completed"
     },
     "tags": []
@@ -2018,13 +2018,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f3dbc02b",
+   "id": "96254f69",
    "metadata": {
     "papermill": {
-     "duration": 0.009643,
-     "end_time": "2025-11-30T22:22:01.378801",
+     "duration": 0.010527,
+     "end_time": "2025-12-12T18:39:17.311944",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.369158",
+     "start_time": "2025-12-12T18:39:17.301417",
      "status": "completed"
     },
     "tags": []
@@ -2044,19 +2044,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "fb21f533",
+   "id": "404c0261",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:01.399562Z",
-     "iopub.status.busy": "2025-11-30T22:22:01.399250Z",
-     "iopub.status.idle": "2025-11-30T22:22:03.063690Z",
-     "shell.execute_reply": "2025-11-30T22:22:03.062617Z"
+     "iopub.execute_input": "2025-12-12T18:39:17.334512Z",
+     "iopub.status.busy": "2025-12-12T18:39:17.334221Z",
+     "iopub.status.idle": "2025-12-12T18:39:19.181377Z",
+     "shell.execute_reply": "2025-12-12T18:39:19.180297Z"
     },
     "papermill": {
-     "duration": 1.67726,
-     "end_time": "2025-11-30T22:22:03.065444",
+     "duration": 1.860666,
+     "end_time": "2025-12-12T18:39:19.183118",
      "exception": false,
-     "start_time": "2025-11-30T22:22:01.388184",
+     "start_time": "2025-12-12T18:39:17.322452",
      "status": "completed"
     },
     "tags": []
@@ -2074,19 +2074,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "aee3eb29",
+   "id": "b021d1fe",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:03.086605Z",
-     "iopub.status.busy": "2025-11-30T22:22:03.086097Z",
-     "iopub.status.idle": "2025-11-30T22:22:04.108413Z",
-     "shell.execute_reply": "2025-11-30T22:22:04.107406Z"
+     "iopub.execute_input": "2025-12-12T18:39:19.206113Z",
+     "iopub.status.busy": "2025-12-12T18:39:19.205465Z",
+     "iopub.status.idle": "2025-12-12T18:39:20.195011Z",
+     "shell.execute_reply": "2025-12-12T18:39:20.194122Z"
     },
     "papermill": {
-     "duration": 1.034818,
-     "end_time": "2025-11-30T22:22:04.110049",
+     "duration": 1.002692,
+     "end_time": "2025-12-12T18:39:20.196531",
      "exception": false,
-     "start_time": "2025-11-30T22:22:03.075231",
+     "start_time": "2025-12-12T18:39:19.193839",
      "status": "completed"
     },
     "tags": []
@@ -2121,19 +2121,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "86b62b07",
+   "id": "17c32121",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:04.131281Z",
-     "iopub.status.busy": "2025-11-30T22:22:04.130967Z",
-     "iopub.status.idle": "2025-11-30T22:22:04.137736Z",
-     "shell.execute_reply": "2025-11-30T22:22:04.136592Z"
+     "iopub.execute_input": "2025-12-12T18:39:20.220165Z",
+     "iopub.status.busy": "2025-12-12T18:39:20.219449Z",
+     "iopub.status.idle": "2025-12-12T18:39:20.226355Z",
+     "shell.execute_reply": "2025-12-12T18:39:20.225406Z"
     },
     "papermill": {
-     "duration": 0.019303,
-     "end_time": "2025-11-30T22:22:04.139455",
+     "duration": 0.020287,
+     "end_time": "2025-12-12T18:39:20.227537",
      "exception": false,
-     "start_time": "2025-11-30T22:22:04.120152",
+     "start_time": "2025-12-12T18:39:20.207250",
      "status": "completed"
     },
     "tags": []
@@ -2173,19 +2173,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "cacfc6e6",
+   "id": "e312ab30",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:04.160669Z",
-     "iopub.status.busy": "2025-11-30T22:22:04.160340Z",
-     "iopub.status.idle": "2025-11-30T22:22:04.173858Z",
-     "shell.execute_reply": "2025-11-30T22:22:04.172899Z"
+     "iopub.execute_input": "2025-12-12T18:39:20.251035Z",
+     "iopub.status.busy": "2025-12-12T18:39:20.250120Z",
+     "iopub.status.idle": "2025-12-12T18:39:20.263355Z",
+     "shell.execute_reply": "2025-12-12T18:39:20.262544Z"
     },
     "papermill": {
-     "duration": 0.026043,
-     "end_time": "2025-11-30T22:22:04.175373",
+     "duration": 0.026339,
+     "end_time": "2025-12-12T18:39:20.264622",
      "exception": false,
-     "start_time": "2025-11-30T22:22:04.149330",
+     "start_time": "2025-12-12T18:39:20.238283",
      "status": "completed"
     },
     "tags": []
@@ -2349,13 +2349,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c274f80c",
+   "id": "d478f75d",
    "metadata": {
     "papermill": {
-     "duration": 0.009805,
-     "end_time": "2025-11-30T22:22:04.195306",
+     "duration": 0.010676,
+     "end_time": "2025-12-12T18:39:20.286387",
      "exception": false,
-     "start_time": "2025-11-30T22:22:04.185501",
+     "start_time": "2025-12-12T18:39:20.275711",
      "status": "completed"
     },
     "tags": []
@@ -2371,19 +2371,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "e8cee904",
+   "id": "2398b829",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:04.217069Z",
-     "iopub.status.busy": "2025-11-30T22:22:04.216580Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.548812Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.547559Z"
+     "iopub.execute_input": "2025-12-12T18:39:20.309507Z",
+     "iopub.status.busy": "2025-12-12T18:39:20.308938Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.296162Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.294946Z"
     },
     "papermill": {
-     "duration": 23.345,
-     "end_time": "2025-11-30T22:22:27.550408",
+     "duration": 23.000672,
+     "end_time": "2025-12-12T18:39:43.297705",
      "exception": false,
-     "start_time": "2025-11-30T22:22:04.205408",
+     "start_time": "2025-12-12T18:39:20.297033",
      "status": "completed"
     },
     "tags": []
@@ -2423,13 +2423,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b8b29696",
+   "id": "bd83245d",
    "metadata": {
     "papermill": {
-     "duration": 0.010325,
-     "end_time": "2025-11-30T22:22:27.571227",
+     "duration": 0.010676,
+     "end_time": "2025-12-12T18:39:43.319396",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.560902",
+     "start_time": "2025-12-12T18:39:43.308720",
      "status": "completed"
     },
     "tags": []
@@ -2441,19 +2441,365 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "f2db334b",
+   "id": "5215aa3b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.595131Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.594058Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.620165Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.619020Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.342581Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.341994Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.358542Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.357617Z"
     },
     "papermill": {
-     "duration": 0.039513,
-     "end_time": "2025-11-30T22:22:27.621777",
+     "duration": 0.029848,
+     "end_time": "2025-12-12T18:39:43.359895",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.582264",
+     "start_time": "2025-12-12T18:39:43.330047",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/usr/local/lib/python3.11/dist-packages/pandas/io/formats/format.py:1458: RuntimeWarning:\n",
+      "\n",
+      "invalid value encountered in greater\n",
+      "\n",
+      "/usr/local/lib/python3.11/dist-packages/pandas/io/formats/format.py:1459: RuntimeWarning:\n",
+      "\n",
+      "invalid value encountered in less\n",
+      "\n",
+      "/usr/local/lib/python3.11/dist-packages/pandas/io/formats/format.py:1459: RuntimeWarning:\n",
+      "\n",
+      "invalid value encountered in greater\n",
+      "\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>Cabin_imputed</th>\n",
+       "      <th>Deck_imputed</th>\n",
+       "      <th>FamilySize</th>\n",
+       "      <th>IsAlone</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Braund, Mr. Owen Harris</td>\n",
+       "      <td>male</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>A/5 21171</td>\n",
+       "      <td>7.2500</td>\n",
+       "      <td>S</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>U</td>\n",
+       "      <td>2</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>2</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n",
+       "      <td>female</td>\n",
+       "      <td>38.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17599</td>\n",
+       "      <td>71.2833</td>\n",
+       "      <td>C</td>\n",
+       "      <td>C85</td>\n",
+       "      <td>C</td>\n",
+       "      <td>2</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>3</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Heikkinen, Miss. Laina</td>\n",
+       "      <td>female</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>STON/O2. 3101282</td>\n",
+       "      <td>7.9250</td>\n",
+       "      <td>S</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>U</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n",
+       "      <td>female</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>113803</td>\n",
+       "      <td>53.1000</td>\n",
+       "      <td>S</td>\n",
+       "      <td>C123</td>\n",
+       "      <td>C</td>\n",
+       "      <td>2</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>5</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Allen, Mr. William Henry</td>\n",
+       "      <td>male</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>373450</td>\n",
+       "      <td>8.0500</td>\n",
+       "      <td>S</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>U</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>886</th>\n",
+       "      <td>887</td>\n",
+       "      <td>0</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Montvila, Rev. Juozas</td>\n",
+       "      <td>male</td>\n",
+       "      <td>27.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>211536</td>\n",
+       "      <td>13.0000</td>\n",
+       "      <td>S</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>U</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>887</th>\n",
+       "      <td>888</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Graham, Miss. Margaret Edith</td>\n",
+       "      <td>female</td>\n",
+       "      <td>19.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>112053</td>\n",
+       "      <td>30.0000</td>\n",
+       "      <td>S</td>\n",
+       "      <td>B42</td>\n",
+       "      <td>B</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>888</th>\n",
+       "      <td>889</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Johnston, Miss. Catherine Helen \"Carrie\"</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2</td>\n",
+       "      <td>W./C. 6607</td>\n",
+       "      <td>23.4500</td>\n",
+       "      <td>S</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>U</td>\n",
+       "      <td>4</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>889</th>\n",
+       "      <td>890</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Behr, Mr. Karl Howell</td>\n",
+       "      <td>male</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>111369</td>\n",
+       "      <td>30.0000</td>\n",
+       "      <td>C</td>\n",
+       "      <td>C148</td>\n",
+       "      <td>C</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>890</th>\n",
+       "      <td>891</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Dooley, Mr. Patrick</td>\n",
+       "      <td>male</td>\n",
+       "      <td>32.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>370376</td>\n",
+       "      <td>7.7500</td>\n",
+       "      <td>Q</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>U</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>891 rows × 15 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Survived  Pclass  \\\n",
+       "0              1         0       3   \n",
+       "1              2         1       1   \n",
+       "2              3         1       3   \n",
+       "3              4         1       1   \n",
+       "4              5         0       3   \n",
+       "..           ...       ...     ...   \n",
+       "886          887         0       2   \n",
+       "887          888         1       1   \n",
+       "888          889         0       3   \n",
+       "889          890         1       1   \n",
+       "890          891         0       3   \n",
+       "\n",
+       "                                                  Name     Sex   Age  SibSp  \\\n",
+       "0                              Braund, Mr. Owen Harris    male  22.0      1   \n",
+       "1    Cumings, Mrs. John Bradley (Florence Briggs Th...  female  38.0      1   \n",
+       "2                               Heikkinen, Miss. Laina  female  26.0      0   \n",
+       "3         Futrelle, Mrs. Jacques Heath (Lily May Peel)  female  35.0      1   \n",
+       "4                             Allen, Mr. William Henry    male  35.0      0   \n",
+       "..                                                 ...     ...   ...    ...   \n",
+       "886                              Montvila, Rev. Juozas    male  27.0      0   \n",
+       "887                       Graham, Miss. Margaret Edith  female  19.0      0   \n",
+       "888           Johnston, Miss. Catherine Helen \"Carrie\"  female   NaN      1   \n",
+       "889                              Behr, Mr. Karl Howell    male  26.0      0   \n",
+       "890                                Dooley, Mr. Patrick    male  32.0      0   \n",
+       "\n",
+       "     Parch            Ticket     Fare Embarked Cabin_imputed Deck_imputed  \\\n",
+       "0        0         A/5 21171   7.2500        S           NaN            U   \n",
+       "1        0          PC 17599  71.2833        C           C85            C   \n",
+       "2        0  STON/O2. 3101282   7.9250        S           NaN            U   \n",
+       "3        0            113803  53.1000        S          C123            C   \n",
+       "4        0            373450   8.0500        S           NaN            U   \n",
+       "..     ...               ...      ...      ...           ...          ...   \n",
+       "886      0            211536  13.0000        S           NaN            U   \n",
+       "887      0            112053  30.0000        S           B42            B   \n",
+       "888      2        W./C. 6607  23.4500        S           NaN            U   \n",
+       "889      0            111369  30.0000        C          C148            C   \n",
+       "890      0            370376   7.7500        Q           NaN            U   \n",
+       "\n",
+       "     FamilySize  IsAlone  \n",
+       "0             2        0  \n",
+       "1             2        0  \n",
+       "2             1        1  \n",
+       "3             2        0  \n",
+       "4             1        1  \n",
+       "..          ...      ...  \n",
+       "886           1        1  \n",
+       "887           1        1  \n",
+       "888           4        0  \n",
+       "889           1        1  \n",
+       "890           1        1  \n",
+       "\n",
+       "[891 rows x 15 columns]"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "c43ccbea",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:43.384564Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.384272Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.405148Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.404070Z"
+    },
+    "papermill": {
+     "duration": 0.034793,
+     "end_time": "2025-12-12T18:39:43.406498",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:43.371705",
      "status": "completed"
     },
     "tags": []
@@ -2492,20 +2838,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
-   "id": "56d08c98",
+   "execution_count": 22,
+   "id": "5e1663e5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.644656Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.644351Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.657168Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.656055Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.431800Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.431382Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.444927Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.443739Z"
     },
     "papermill": {
-     "duration": 0.026194,
-     "end_time": "2025-11-30T22:22:27.658624",
+     "duration": 0.027612,
+     "end_time": "2025-12-12T18:39:43.446432",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.632430",
+     "start_time": "2025-12-12T18:39:43.418820",
      "status": "completed"
     },
     "tags": []
@@ -2590,7 +2936,7 @@
        "152   NaN   NaN        S  "
       ]
      },
-     "execution_count": 21,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2601,20 +2947,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
-   "id": "d6530312",
+   "execution_count": 23,
+   "id": "94bb3c5f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.680618Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.680290Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.691115Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.690131Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.471568Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.471278Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.480790Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.480016Z"
     },
     "papermill": {
-     "duration": 0.023625,
-     "end_time": "2025-11-30T22:22:27.692499",
+     "duration": 0.023618,
+     "end_time": "2025-12-12T18:39:43.482100",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.668874",
+     "start_time": "2025-12-12T18:39:43.458482",
      "status": "completed"
     },
     "tags": []
@@ -2626,7 +2972,7 @@
        "0"
       ]
      },
-     "execution_count": 22,
+     "execution_count": 23,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2646,20 +2992,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
-   "id": "364edac3",
+   "execution_count": 24,
+   "id": "5030bf70",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.714873Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.714472Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.748174Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.747222Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.507445Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.506882Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.534916Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.533907Z"
     },
     "papermill": {
-     "duration": 0.047059,
-     "end_time": "2025-11-30T22:22:27.749942",
+     "duration": 0.042362,
+     "end_time": "2025-12-12T18:39:43.536428",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.702883",
+     "start_time": "2025-12-12T18:39:43.494066",
      "status": "completed"
     },
     "tags": []
@@ -2813,7 +3159,7 @@
        "U              0   2   2   0  0  0  0  323"
       ]
      },
-     "execution_count": 23,
+     "execution_count": 24,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2843,20 +3189,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
-   "id": "51b179ca",
+   "execution_count": 25,
+   "id": "deb7c7db",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.772491Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.772201Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.796963Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.795923Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.561920Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.561578Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.585900Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.585127Z"
     },
     "papermill": {
-     "duration": 0.037895,
-     "end_time": "2025-11-30T22:22:27.798488",
+     "duration": 0.038888,
+     "end_time": "2025-12-12T18:39:43.587337",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.760593",
+     "start_time": "2025-12-12T18:39:43.548449",
      "status": "completed"
     },
     "tags": []
@@ -3013,7 +3359,7 @@
        "3           False  "
       ]
      },
-     "execution_count": 24,
+     "execution_count": 25,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3039,20 +3385,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
-   "id": "4f5d3a2f",
+   "execution_count": 26,
+   "id": "9b01519d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.822369Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.822097Z",
-     "iopub.status.idle": "2025-11-30T22:22:27.836584Z",
-     "shell.execute_reply": "2025-11-30T22:22:27.835672Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.613091Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.612720Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.626898Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.625902Z"
     },
     "papermill": {
-     "duration": 0.028393,
-     "end_time": "2025-11-30T22:22:27.838105",
+     "duration": 0.0289,
+     "end_time": "2025-12-12T18:39:43.628264",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.809712",
+     "start_time": "2025-12-12T18:39:43.599364",
      "status": "completed"
     },
     "tags": []
@@ -3214,7 +3560,7 @@
        "3           False  "
       ]
      },
-     "execution_count": 25,
+     "execution_count": 26,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3225,20 +3571,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 26,
-   "id": "82a037a1",
+   "execution_count": 27,
+   "id": "1f996623",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:27.862387Z",
-     "iopub.status.busy": "2025-11-30T22:22:27.861877Z",
-     "iopub.status.idle": "2025-11-30T22:22:28.070227Z",
-     "shell.execute_reply": "2025-11-30T22:22:28.069335Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.654844Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.654218Z",
+     "iopub.status.idle": "2025-12-12T18:39:43.863025Z",
+     "shell.execute_reply": "2025-12-12T18:39:43.862038Z"
     },
     "papermill": {
-     "duration": 0.222392,
-     "end_time": "2025-11-30T22:22:28.071829",
+     "duration": 0.224141,
+     "end_time": "2025-12-12T18:39:43.864797",
      "exception": false,
-     "start_time": "2025-11-30T22:22:27.849437",
+     "start_time": "2025-12-12T18:39:43.640656",
      "status": "completed"
     },
     "tags": []
@@ -3253,7 +3599,7 @@
        "RandomForestClassifier(max_depth=10, random_state=42)"
       ]
      },
-     "execution_count": 26,
+     "execution_count": 27,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3272,20 +3618,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
-   "id": "a3a17576",
+   "execution_count": 28,
+   "id": "b8615ea1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:28.096275Z",
-     "iopub.status.busy": "2025-11-30T22:22:28.095973Z",
-     "iopub.status.idle": "2025-11-30T22:22:28.409993Z",
-     "shell.execute_reply": "2025-11-30T22:22:28.409063Z"
+     "iopub.execute_input": "2025-12-12T18:39:43.891883Z",
+     "iopub.status.busy": "2025-12-12T18:39:43.891557Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.206850Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.205863Z"
     },
     "papermill": {
-     "duration": 0.327837,
-     "end_time": "2025-11-30T22:22:28.411427",
+     "duration": 0.330749,
+     "end_time": "2025-12-12T18:39:44.208439",
      "exception": false,
-     "start_time": "2025-11-30T22:22:28.083590",
+     "start_time": "2025-12-12T18:39:43.877690",
      "status": "completed"
     },
     "tags": []
@@ -3355,7 +3701,7 @@
        "4          896         1"
       ]
      },
-     "execution_count": 27,
+     "execution_count": 28,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3394,30 +3740,344 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d4663ee3",
+   "id": "ed720551",
    "metadata": {
     "papermill": {
-     "duration": 0.01102,
-     "end_time": "2025-11-30T22:22:28.434192",
+     "duration": 0.012543,
+     "end_time": "2025-12-12T18:39:44.234108",
      "exception": false,
-     "start_time": "2025-11-30T22:22:28.423172",
+     "start_time": "2025-12-12T18:39:44.221565",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "### 4. Conclusions"
+    "### 4. Testing Encoders approach"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "f16e1e70",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.260725Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.260440Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.284471Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.283495Z"
+    },
+    "papermill": {
+     "duration": 0.03922,
+     "end_time": "2025-12-12T18:39:44.285809",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.246589",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 891 entries, 0 to 890\n",
+      "Data columns (total 12 columns):\n",
+      " #   Column       Non-Null Count  Dtype  \n",
+      "---  ------       --------------  -----  \n",
+      " 0   PassengerId  891 non-null    int64  \n",
+      " 1   Survived     891 non-null    int64  \n",
+      " 2   Pclass       891 non-null    int64  \n",
+      " 3   Name         891 non-null    object \n",
+      " 4   Sex          891 non-null    object \n",
+      " 5   Age          714 non-null    float64\n",
+      " 6   SibSp        891 non-null    int64  \n",
+      " 7   Parch        891 non-null    int64  \n",
+      " 8   Ticket       891 non-null    object \n",
+      " 9   Fare         891 non-null    float64\n",
+      " 10  Cabin        204 non-null    object \n",
+      " 11  Embarked     889 non-null    object \n",
+      "dtypes: float64(2), int64(5), object(5)\n",
+      "memory usage: 83.7+ KB\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "X_full = pd.read_csv(\"/kaggle/input/titanic/train.csv\")\n",
+    "X_test_full = pd.read_csv('/kaggle/input/titanic/test.csv')\n",
+    "\n",
+    "X_full.info()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "033666e6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.313132Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.312838Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.318916Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.318210Z"
+    },
+    "papermill": {
+     "duration": 0.021138,
+     "end_time": "2025-12-12T18:39:44.320321",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.299183",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "encode_td = train_data[['PassengerId','Survived','Pclass','Sex','FamilySize','IsAlone','Fare','Embarked','Deck_imputed']].copy()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "21e9cfd1",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.347331Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.347056Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.356587Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.355703Z"
+    },
+    "papermill": {
+     "duration": 0.024579,
+     "end_time": "2025-12-12T18:39:44.358041",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.333462",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "L'indice di encode_td è Index([  1,   2,   3,   4,   5,   6,   7,   8,   9,  10,\n",
+      "       ...\n",
+      "       882, 883, 884, 885, 886, 887, 888, 889, 890, 891],\n",
+      "      dtype='int64', name='PassengerId', length=891)\n"
+     ]
+    }
+   ],
+   "source": [
+    "from sklearn.model_selection import train_test_split\n",
+    "\n",
+    "encode_td = train_data[['PassengerId','Survived','Pclass','Sex','FamilySize','IsAlone','Fare','Embarked','Deck_imputed']].copy()\n",
+    "\n",
+    "encode_td = encode_td.set_index('PassengerId')\n",
+    "\n",
+    "print(f\"L'indice di encode_td è {encode_td.index}\")\n",
+    "\n",
+    "X = encode_td.drop('Survived', axis=1)\n",
+    "y = encode_td['Survived']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "06421433",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.385870Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.385514Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.392554Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.391725Z"
+    },
+    "papermill": {
+     "duration": 0.023129,
+     "end_time": "2025-12-12T18:39:44.394153",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.371024",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "encode_test_data = test_data[['PassengerId','Pclass','Sex','FamilySize','IsAlone','Fare','Embarked','Deck_imputed']].copy()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "fdd0219e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.421254Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.420965Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.432305Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.431433Z"
+    },
+    "papermill": {
+     "duration": 0.026971,
+     "end_time": "2025-12-12T18:39:44.433916",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.406945",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Break off validation set from training data\n",
+    "X_train_full, X_valid_full, y_train, y_valid = train_test_split(X, y, \n",
+    "                                                                train_size=0.7, test_size=0.3,\n",
+    "                                                                random_state=0)\n",
+    "\n",
+    "# \"Cardinality\" means the number of unique values in a column\n",
+    "# Select categorical columns with relatively low cardinality (convenient but arbitrary)\n",
+    "categorical_cols = [cname for cname in X_train_full.columns if\n",
+    "                    X_train_full[cname].dtype == \"object\"]\n",
+    "\n",
+    "# Select numerical columns\n",
+    "numerical_cols = [cname for cname in X_train_full.columns if \n",
+    "                X_train_full[cname].dtype in ['int64', 'float64']]\n",
+    "\n",
+    "my_cols = categorical_cols + numerical_cols\n",
+    "X_train = X_train_full[my_cols].copy()\n",
+    "X_valid = X_valid_full[my_cols].copy()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "636d8847",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.460843Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.460502Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.499532Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.498717Z"
+    },
+    "papermill": {
+     "duration": 0.054578,
+     "end_time": "2025-12-12T18:39:44.501268",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.446690",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "from sklearn.compose import ColumnTransformer\n",
+    "from sklearn.pipeline import Pipeline\n",
+    "from sklearn.impute import SimpleImputer\n",
+    "from sklearn.preprocessing import OneHotEncoder\n",
+    "\n",
+    "# Preprocessing for numerical data\n",
+    "numerical_transformer = SimpleImputer(strategy='constant')\n",
+    "\n",
+    "# Preprocessing for categorical data\n",
+    "categorical_transformer = Pipeline(steps=[\n",
+    "    ('imputer', SimpleImputer(strategy='most_frequent')),\n",
+    "    ('onehot', OneHotEncoder(handle_unknown='ignore'))\n",
+    "])\n",
+    "\n",
+    "# Bundle preprocessing for numerical and categorical data\n",
+    "preprocessor = ColumnTransformer(\n",
+    "    transformers=[\n",
+    "        ('num', numerical_transformer, numerical_cols),\n",
+    "        ('cat', categorical_transformer, categorical_cols)\n",
+    "    ])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "id": "f9ed7ed6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.529350Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.529056Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.533806Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.532993Z"
+    },
+    "papermill": {
+     "duration": 0.019927,
+     "end_time": "2025-12-12T18:39:44.535133",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.515206",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "from sklearn.ensemble import RandomForestClassifier\n",
+    "\n",
+    "model = RandomForestClassifier(n_estimators=200, random_state=0)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "id": "61f754d7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-12-12T18:39:44.562143Z",
+     "iopub.status.busy": "2025-12-12T18:39:44.561844Z",
+     "iopub.status.idle": "2025-12-12T18:39:44.933007Z",
+     "shell.execute_reply": "2025-12-12T18:39:44.932022Z"
+    },
+    "papermill": {
+     "duration": 0.386726,
+     "end_time": "2025-12-12T18:39:44.934561",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.547835",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Bundle preprocessing and modeling code in a pipeline\n",
+    "my_pipeline = Pipeline(steps=[('preprocessor', preprocessor),\n",
+    "                              ('model', model)\n",
+    "                             ])\n",
+    "\n",
+    "# Preprocessing of training data, fit model \n",
+    "my_pipeline.fit(X_train, y_train)\n",
+    "\n",
+    "# Preprocessing of validation data, get predictions\n",
+    "preds = my_pipeline.predict(encode_test_data)\n"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "fe3aa90b",
+   "id": "aafbc72e",
    "metadata": {
     "papermill": {
-     "duration": 0.011034,
-     "end_time": "2025-11-30T22:22:28.456382",
+     "duration": 0.012508,
+     "end_time": "2025-12-12T18:39:44.960647",
      "exception": false,
-     "start_time": "2025-11-30T22:22:28.445348",
+     "start_time": "2025-12-12T18:39:44.948139",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### 5. Conclusions"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d1b32d6c",
+   "metadata": {
+    "papermill": {
+     "duration": 0.013063,
+     "end_time": "2025-12-12T18:39:44.986992",
+     "exception": false,
+     "start_time": "2025-12-12T18:39:44.973929",
      "status": "completed"
     },
     "tags": []
@@ -3435,290 +4095,31 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
-   "id": "afc1f73f",
+   "execution_count": 37,
+   "id": "6fd3cabd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:28.480282Z",
-     "iopub.status.busy": "2025-11-30T22:22:28.479971Z",
-     "iopub.status.idle": "2025-11-30T22:22:28.498720Z",
-     "shell.execute_reply": "2025-11-30T22:22:28.497599Z"
+     "iopub.execute_input": "2025-12-12T18:39:45.014271Z",
+     "iopub.status.busy": "2025-12-12T18:39:45.013971Z",
+     "iopub.status.idle": "2025-12-12T18:39:45.020542Z",
+     "shell.execute_reply": "2025-12-12T18:39:45.019720Z"
     },
     "papermill": {
-     "duration": 0.03263,
-     "end_time": "2025-11-30T22:22:28.500168",
+     "duration": 0.021708,
+     "end_time": "2025-12-12T18:39:45.021962",
      "exception": false,
-     "start_time": "2025-11-30T22:22:28.467538",
+     "start_time": "2025-12-12T18:39:45.000254",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [
-    {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>PassengerId</th>\n",
-       "      <th>Pclass</th>\n",
-       "      <th>Name</th>\n",
-       "      <th>Sex</th>\n",
-       "      <th>Age</th>\n",
-       "      <th>SibSp</th>\n",
-       "      <th>Parch</th>\n",
-       "      <th>Ticket</th>\n",
-       "      <th>Fare</th>\n",
-       "      <th>Cabin</th>\n",
-       "      <th>Embarked</th>\n",
-       "      <th>Cabin_imputed</th>\n",
-       "      <th>Deck_original</th>\n",
-       "      <th>Deck_imputed</th>\n",
-       "      <th>FamilySize</th>\n",
-       "      <th>IsAlone</th>\n",
-       "      <th>Survived</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>0</th>\n",
-       "      <td>892</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Kelly, Mr. James</td>\n",
-       "      <td>male</td>\n",
-       "      <td>34.5</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>330911</td>\n",
-       "      <td>7.8292</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>Q</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>U</td>\n",
-       "      <td>U</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1</th>\n",
-       "      <td>893</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Wilkes, Mrs. James (Ellen Needs)</td>\n",
-       "      <td>female</td>\n",
-       "      <td>47.0</td>\n",
-       "      <td>1</td>\n",
-       "      <td>0</td>\n",
-       "      <td>363272</td>\n",
-       "      <td>7.0000</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>S</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>U</td>\n",
-       "      <td>U</td>\n",
-       "      <td>2</td>\n",
-       "      <td>0</td>\n",
-       "      <td>1</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
-       "      <td>894</td>\n",
-       "      <td>2</td>\n",
-       "      <td>Myles, Mr. Thomas Francis</td>\n",
-       "      <td>male</td>\n",
-       "      <td>62.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>240276</td>\n",
-       "      <td>9.6875</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>Q</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>U</td>\n",
-       "      <td>U</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3</th>\n",
-       "      <td>895</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Wirz, Mr. Albert</td>\n",
-       "      <td>male</td>\n",
-       "      <td>27.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>315154</td>\n",
-       "      <td>8.6625</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>S</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>U</td>\n",
-       "      <td>U</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>896</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Hirvonen, Mrs. Alexander (Helga E Lindqvist)</td>\n",
-       "      <td>female</td>\n",
-       "      <td>22.0</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>3101298</td>\n",
-       "      <td>12.2875</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>S</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>U</td>\n",
-       "      <td>U</td>\n",
-       "      <td>3</td>\n",
-       "      <td>0</td>\n",
-       "      <td>1</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "   PassengerId  Pclass                                          Name     Sex  \\\n",
-       "0          892       3                              Kelly, Mr. James    male   \n",
-       "1          893       3              Wilkes, Mrs. James (Ellen Needs)  female   \n",
-       "2          894       2                     Myles, Mr. Thomas Francis    male   \n",
-       "3          895       3                              Wirz, Mr. Albert    male   \n",
-       "4          896       3  Hirvonen, Mrs. Alexander (Helga E Lindqvist)  female   \n",
-       "\n",
-       "    Age  SibSp  Parch   Ticket     Fare Cabin Embarked Cabin_imputed  \\\n",
-       "0  34.5      0      0   330911   7.8292   NaN        Q           NaN   \n",
-       "1  47.0      1      0   363272   7.0000   NaN        S           NaN   \n",
-       "2  62.0      0      0   240276   9.6875   NaN        Q           NaN   \n",
-       "3  27.0      0      0   315154   8.6625   NaN        S           NaN   \n",
-       "4  22.0      1      1  3101298  12.2875   NaN        S           NaN   \n",
-       "\n",
-       "  Deck_original Deck_imputed  FamilySize  IsAlone  Survived  \n",
-       "0             U            U           1        1         0  \n",
-       "1             U            U           2        0         1  \n",
-       "2             U            U           1        1         0  \n",
-       "3             U            U           1        1         0  \n",
-       "4             U            U           3        0         1  "
-      ]
-     },
-     "execution_count": 28,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
+   "outputs": [],
    "source": [
-    "# Joining results to evaluate prediction vs training data\n",
-    "test_with_pred = test_data.merge(submission, on='PassengerId', how='left')\n",
-    "test_with_pred.head()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 29,
-   "id": "1dc3b55c",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2025-11-30T22:22:28.525874Z",
-     "iopub.status.busy": "2025-11-30T22:22:28.525518Z",
-     "iopub.status.idle": "2025-11-30T22:22:28.577776Z",
-     "shell.execute_reply": "2025-11-30T22:22:28.576989Z"
-    },
-    "papermill": {
-     "duration": 0.067099,
-     "end_time": "2025-11-30T22:22:28.579275",
-     "exception": false,
-     "start_time": "2025-11-30T22:22:28.512176",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/html": [
-       "<html>\n",
-       "<head><meta charset=\"utf-8\" /></head>\n",
-       "<body>\n",
-       "    <div>            <script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_SVG\"></script><script type=\"text/javascript\">if (window.MathJax && window.MathJax.Hub && window.MathJax.Hub.Config) {window.MathJax.Hub.Config({SVG: {font: \"STIX-Web\"}});}</script>                <script type=\"text/javascript\">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>\n",
-       "        <script charset=\"utf-8\" src=\"https://cdn.plot.ly/plotly-2.35.2.min.js\"></script>                <div id=\"cccb91e2-badc-4a31-ba12-494b610e2719\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"cccb91e2-badc-4a31-ba12-494b610e2719\")) {                    Plotly.newPlot(                        \"cccb91e2-badc-4a31-ba12-494b610e2719\",                        [{\"alignmentgroup\":\"True\",\"hovertemplate\":\"Source=Train (Real)\\u003cbr\\u003eSurvived (0=No, 1=Yes)=%{x}\\u003cbr\\u003eAge=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"Train (Real)\",\"marker\":{\"color\":\"#636efa\"},\"name\":\"Train (Real)\",\"notched\":false,\"offsetgroup\":\"Train (Real)\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,0,1,1,0,1,1,0,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,1,1,0,0,1,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0],\"x0\":\" \",\"xaxis\":\"x\",\"y\":[22.0,38.0,26.0,35.0,35.0,null,54.0,2.0,27.0,14.0,4.0,58.0,20.0,39.0,14.0,55.0,2.0,null,31.0,null,35.0,34.0,15.0,28.0,8.0,38.0,null,19.0,null,null,40.0,null,null,66.0,28.0,42.0,null,21.0,18.0,14.0,40.0,27.0,null,3.0,19.0,null,null,null,null,18.0,7.0,21.0,49.0,29.0,65.0,null,21.0,28.5,5.0,11.0,22.0,38.0,45.0,4.0,null,null,29.0,19.0,17.0,26.0,32.0,16.0,21.0,26.0,32.0,25.0,null,null,0.83,30.0,22.0,29.0,null,28.0,17.0,33.0,16.0,null,23.0,24.0,29.0,20.0,46.0,26.0,59.0,null,71.0,23.0,34.0,34.0,28.0,null,21.0,33.0,37.0,28.0,21.0,null,38.0,null,47.0,14.5,22.0,20.0,17.0,21.0,70.5,29.0,24.0,2.0,21.0,null,32.5,32.5,54.0,12.0,null,24.0,null,45.0,33.0,20.0,47.0,29.0,25.0,23.0,19.0,37.0,16.0,24.0,null,22.0,24.0,19.0,18.0,19.0,27.0,9.0,36.5,42.0,51.0,22.0,55.5,40.5,null,51.0,16.0,30.0,null,null,44.0,40.0,26.0,17.0,1.0,9.0,null,45.0,null,28.0,61.0,4.0,1.0,21.0,56.0,18.0,null,50.0,30.0,36.0,null,null,9.0,1.0,4.0,null,null,45.0,40.0,36.0,32.0,19.0,19.0,3.0,44.0,58.0,null,42.0,null,24.0,28.0,null,34.0,45.5,18.0,2.0,32.0,26.0,16.0,40.0,24.0,35.0,22.0,30.0,null,31.0,27.0,42.0,32.0,30.0,16.0,27.0,51.0,null,38.0,22.0,19.0,20.5,18.0,null,35.0,29.0,59.0,5.0,24.0,null,44.0,8.0,19.0,33.0,null,null,29.0,22.0,30.0,44.0,25.0,24.0,37.0,54.0,null,29.0,62.0,30.0,41.0,29.0,null,30.0,35.0,50.0,null,3.0,52.0,40.0,null,36.0,16.0,25.0,58.0,35.0,null,25.0,41.0,37.0,null,63.0,45.0,null,7.0,35.0,65.0,28.0,16.0,19.0,null,33.0,30.0,22.0,42.0,22.0,26.0,19.0,36.0,24.0,24.0,null,23.5,2.0,null,50.0,null,null,19.0,null,null,0.92,null,17.0,30.0,30.0,24.0,18.0,26.0,28.0,43.0,26.0,24.0,54.0,31.0,40.0,22.0,27.0,30.0,22.0,null,36.0,61.0,36.0,31.0,16.0,null,45.5,38.0,16.0,null,null,29.0,41.0,45.0,45.0,2.0,24.0,28.0,25.0,36.0,24.0,40.0,null,3.0,42.0,23.0,null,15.0,25.0,null,28.0,22.0,38.0,null,null,40.0,29.0,45.0,35.0,null,30.0,60.0,null,null,24.0,25.0,18.0,19.0,22.0,3.0,null,22.0,27.0,20.0,19.0,42.0,1.0,32.0,35.0,null,18.0,1.0,36.0,null,17.0,36.0,21.0,28.0,23.0,24.0,22.0,31.0,46.0,23.0,28.0,39.0,26.0,21.0,28.0,20.0,34.0,51.0,3.0,21.0,null,null,null,33.0,null,44.0,null,34.0,18.0,30.0,10.0,null,21.0,29.0,28.0,18.0,null,28.0,19.0,null,32.0,28.0,null,42.0,17.0,50.0,14.0,21.0,24.0,64.0,31.0,45.0,20.0,25.0,28.0,null,4.0,13.0,34.0,5.0,52.0,36.0,null,30.0,49.0,null,29.0,65.0,null,50.0,null,48.0,34.0,47.0,48.0,null,38.0,null,56.0,null,0.75,null,38.0,33.0,23.0,22.0,null,34.0,29.0,22.0,2.0,9.0,null,50.0,63.0,25.0,null,35.0,58.0,30.0,9.0,null,21.0,55.0,71.0,21.0,null,54.0,null,25.0,24.0,17.0,21.0,null,37.0,16.0,18.0,33.0,null,28.0,26.0,29.0,null,36.0,54.0,24.0,47.0,34.0,null,36.0,32.0,30.0,22.0,null,44.0,null,40.5,50.0,null,39.0,23.0,2.0,null,17.0,null,30.0,7.0,45.0,30.0,null,22.0,36.0,9.0,11.0,32.0,50.0,64.0,19.0,null,33.0,8.0,17.0,27.0,null,22.0,22.0,62.0,48.0,null,39.0,36.0,null,40.0,28.0,null,null,24.0,19.0,29.0,null,32.0,62.0,53.0,36.0,null,16.0,19.0,34.0,39.0,null,32.0,25.0,39.0,54.0,36.0,null,18.0,47.0,60.0,22.0,null,35.0,52.0,47.0,null,37.0,36.0,null,49.0,null,49.0,24.0,null,null,44.0,35.0,36.0,30.0,27.0,22.0,40.0,39.0,null,null,null,35.0,24.0,34.0,26.0,4.0,26.0,27.0,42.0,20.0,21.0,21.0,61.0,57.0,21.0,26.0,null,80.0,51.0,32.0,null,9.0,28.0,32.0,31.0,41.0,null,20.0,24.0,2.0,null,0.75,48.0,19.0,56.0,null,23.0,null,18.0,21.0,null,18.0,24.0,null,32.0,23.0,58.0,50.0,40.0,47.0,36.0,20.0,32.0,25.0,null,43.0,null,40.0,31.0,70.0,31.0,null,18.0,24.5,18.0,43.0,36.0,null,27.0,20.0,14.0,60.0,25.0,14.0,19.0,18.0,15.0,31.0,4.0,null,25.0,60.0,52.0,44.0,null,49.0,42.0,18.0,35.0,18.0,25.0,26.0,39.0,45.0,42.0,22.0,null,24.0,null,48.0,29.0,52.0,19.0,38.0,27.0,null,33.0,6.0,17.0,34.0,50.0,27.0,20.0,30.0,null,25.0,25.0,29.0,11.0,null,23.0,23.0,28.5,48.0,35.0,null,null,null,36.0,21.0,24.0,31.0,70.0,16.0,30.0,19.0,31.0,4.0,6.0,33.0,23.0,48.0,0.67,28.0,18.0,34.0,33.0,null,41.0,20.0,36.0,16.0,51.0,null,30.5,null,32.0,24.0,48.0,57.0,null,54.0,18.0,null,5.0,null,43.0,13.0,17.0,29.0,null,25.0,25.0,18.0,8.0,1.0,46.0,null,16.0,null,null,25.0,39.0,49.0,31.0,30.0,30.0,34.0,31.0,11.0,0.42,27.0,31.0,39.0,18.0,39.0,33.0,26.0,39.0,35.0,6.0,30.5,null,23.0,31.0,43.0,10.0,52.0,27.0,38.0,27.0,2.0,null,null,1.0,null,62.0,15.0,0.83,null,23.0,18.0,39.0,21.0,null,32.0,null,20.0,16.0,30.0,34.5,17.0,42.0,null,35.0,28.0,null,4.0,74.0,9.0,16.0,44.0,18.0,45.0,51.0,24.0,null,41.0,21.0,48.0,null,24.0,42.0,27.0,31.0,null,4.0,26.0,47.0,33.0,47.0,28.0,15.0,20.0,19.0,null,56.0,25.0,33.0,22.0,28.0,25.0,39.0,27.0,19.0,null,26.0,32.0],\"y0\":\" \",\"yaxis\":\"y\",\"type\":\"box\"},{\"alignmentgroup\":\"True\",\"hovertemplate\":\"Source=Test (Predicted)\\u003cbr\\u003eSurvived (0=No, 1=Yes)=%{x}\\u003cbr\\u003eAge=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"Test (Predicted)\",\"marker\":{\"color\":\"#EF553B\"},\"name\":\"Test (Predicted)\",\"notched\":false,\"offsetgroup\":\"Test (Predicted)\",\"orientation\":\"v\",\"showlegend\":true,\"x\":[0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0],\"x0\":\" \",\"xaxis\":\"x\",\"y\":[34.5,47.0,62.0,27.0,22.0,14.0,30.0,26.0,18.0,21.0,null,46.0,23.0,63.0,47.0,24.0,35.0,21.0,27.0,45.0,55.0,9.0,null,21.0,48.0,50.0,22.0,22.5,41.0,null,50.0,24.0,33.0,null,30.0,18.5,null,21.0,25.0,null,39.0,null,41.0,30.0,45.0,25.0,45.0,null,60.0,36.0,24.0,27.0,20.0,28.0,null,10.0,35.0,25.0,null,36.0,17.0,32.0,18.0,22.0,13.0,null,18.0,47.0,31.0,60.0,24.0,21.0,29.0,28.5,35.0,32.5,null,55.0,30.0,24.0,6.0,67.0,49.0,null,null,null,27.0,18.0,null,2.0,22.0,null,27.0,null,25.0,25.0,76.0,29.0,20.0,33.0,43.0,27.0,null,26.0,16.0,28.0,21.0,null,null,18.5,41.0,null,36.0,18.5,63.0,18.0,null,1.0,36.0,29.0,12.0,null,35.0,28.0,null,17.0,22.0,null,42.0,24.0,32.0,53.0,null,null,43.0,24.0,26.5,26.0,23.0,40.0,10.0,33.0,61.0,28.0,42.0,31.0,null,22.0,null,30.0,23.0,null,60.5,36.0,13.0,24.0,29.0,23.0,42.0,26.0,null,7.0,26.0,null,41.0,26.0,48.0,18.0,null,22.0,null,27.0,23.0,null,40.0,15.0,20.0,54.0,36.0,64.0,30.0,37.0,18.0,null,27.0,40.0,21.0,17.0,null,40.0,34.0,null,11.5,61.0,8.0,33.0,6.0,18.0,23.0,null,null,0.33,47.0,8.0,25.0,null,35.0,24.0,33.0,25.0,32.0,null,17.0,60.0,38.0,42.0,null,57.0,50.0,null,30.0,21.0,22.0,21.0,53.0,null,23.0,null,40.5,36.0,14.0,21.0,21.0,null,39.0,20.0,64.0,20.0,18.0,48.0,55.0,45.0,45.0,null,null,41.0,22.0,42.0,29.0,null,0.92,20.0,27.0,24.0,32.5,null,null,28.0,19.0,21.0,36.5,21.0,29.0,1.0,30.0,null,null,null,null,17.0,46.0,null,26.0,null,null,20.0,28.0,40.0,30.0,22.0,23.0,0.75,null,9.0,2.0,36.0,null,24.0,null,null,null,30.0,null,53.0,36.0,26.0,1.0,null,30.0,29.0,32.0,null,43.0,24.0,null,64.0,30.0,0.83,55.0,45.0,18.0,22.0,null,37.0,55.0,17.0,57.0,19.0,27.0,22.0,26.0,25.0,26.0,33.0,39.0,23.0,12.0,46.0,29.0,21.0,48.0,39.0,null,19.0,27.0,30.0,32.0,39.0,25.0,null,18.0,32.0,null,58.0,null,16.0,26.0,38.0,24.0,31.0,45.0,25.0,18.0,49.0,0.17,50.0,59.0,null,null,30.0,14.5,24.0,31.0,27.0,25.0,null,null,22.0,45.0,29.0,21.0,31.0,49.0,44.0,54.0,45.0,22.0,21.0,55.0,5.0,null,26.0,null,19.0,null,24.0,24.0,57.0,21.0,6.0,23.0,51.0,13.0,47.0,29.0,18.0,24.0,48.0,22.0,31.0,30.0,38.0,22.0,17.0,43.0,20.0,23.0,50.0,null,3.0,null,37.0,28.0,null,39.0,38.5,null,null],\"y0\":\" \",\"yaxis\":\"y\",\"type\":\"box\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Survived (0=No, 1=Yes)\"},\"categoryorder\":\"array\",\"categoryarray\":[0,1]},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"Age\"}},\"legend\":{\"title\":{\"text\":\"Source\"},\"tracegroupgap\":0},\"title\":{\"text\":\"Age Distribution: Train (Real) vs Test (Predicted)\"},\"boxmode\":\"group\"},                        {\"responsive\": true}                    ).then(function(){\n",
-       "                            \n",
-       "var gd = document.getElementById('cccb91e2-badc-4a31-ba12-494b610e2719');\n",
-       "var x = new MutationObserver(function (mutations, observer) {{\n",
-       "        var display = window.getComputedStyle(gd).display;\n",
-       "        if (!display || display === 'none') {{\n",
-       "            console.log([gd, 'removed!']);\n",
-       "            Plotly.purge(gd);\n",
-       "            observer.disconnect();\n",
-       "        }}\n",
-       "}});\n",
-       "\n",
-       "// Listen for the removal of the full notebook cells\n",
-       "var notebookContainer = gd.closest('#notebook-container');\n",
-       "if (notebookContainer) {{\n",
-       "    x.observe(notebookContainer, {childList: true});\n",
-       "}}\n",
-       "\n",
-       "// Listen for the clearing of the current output cell\n",
-       "var outputEl = gd.closest('.output');\n",
-       "if (outputEl) {{\n",
-       "    x.observe(outputEl, {childList: true});\n",
-       "}}\n",
-       "\n",
-       "                        })                };                            </script>        </div>\n",
-       "</body>\n",
-       "</html>"
-      ]
-     },
-     "metadata": {},
-     "output_type": "display_data"
-    }
-   ],
-   "source": [
-    "train_plot = train_data[['Age', 'Survived']].copy()\n",
-    "train_plot['Dataset'] = 'Train (Real)'\n",
-    "\n",
-    "test_plot = test_with_pred[['Age', 'Survived']].copy()\n",
-    "test_plot['Dataset'] = 'Test (Predicted)'\n",
-    "\n",
-    "combined = pd.concat([train_plot, test_plot], ignore_index=True)\n",
-    "\n",
-    "\n",
-    "fig = px.box(\n",
-    "    combined,\n",
-    "    x='Survived',\n",
-    "    y='Age',\n",
-    "    color='Dataset',\n",
-    "    category_orders={'Survived': [0, 1]},\n",
-    "    title='Age Distribution: Train (Real) vs Test (Predicted)',\n",
-    "    labels={\n",
-    "        'Survived': 'Survived (0=No, 1=Yes)',\n",
-    "        'Age': 'Age',\n",
-    "        'Dataset': 'Source'\n",
-    "    }\n",
-    ")\n",
-    "\n",
-    "fig.show()"
+    "output = pd.DataFrame({\n",
+    "    'PassengerId': test_data['PassengerId'],\n",
+    "    'Survived': preds\n",
+    "})\n",
+    "output.to_csv('submission.csv', index=False)\n"
    ]
   }
  ],
@@ -3757,14 +4158,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 41.844779,
-   "end_time": "2025-11-30T22:22:31.212229",
+   "duration": 43.121499,
+   "end_time": "2025-12-12T18:39:47.653690",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-11-30T22:21:49.367450",
+   "start_time": "2025-12-12T18:39:04.532191",
    "version": "2.6.0"
   }
  },
